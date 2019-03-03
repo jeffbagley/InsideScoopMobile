@@ -1,0 +1,11 @@
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/bin/Debug/netstandard2.0/InsideScoopMobile.deps.json
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/bin/Debug/netstandard2.0/InsideScoopMobile.dll
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/bin/Debug/netstandard2.0/InsideScoopMobile.pdb
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.csprojAssemblyReference.cache
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/TodoList.xaml.g.cs
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.csproj.CoreCompileInputs.cache
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.AssemblyInfoInputs.cache
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.AssemblyInfo.cs
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.dll
+/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.pdb
