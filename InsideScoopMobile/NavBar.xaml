@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="InsideScoopMobile.NavBar">
+    
+    
+    
+    <ContentPage Title="List View">
+        <StackLayout>
+            <TableView Intent="Data">
+                <TableRoot>
+                    <TableSection Title="List View">
+                        <ImageCell ImageSource="" Text="Geoff's Ice Cream" Detail="Lots of ice cream choices"></ImageCell>
+                        <ImageCell ImageSource="" Text="Taco Truck" Detail="Authenic Mexican"></ImageCell>
+                        <ImageCell ImageSource="" Text="Noodle Wagon" Detail="Real Good"></ImageCell>
+                        <ImageCell ImageSource="" Text="Good Pizza" Detail="We make good pizza"></ImageCell>
+                        <ImageCell ImageSource="" Text="Burgers, Fries n Shakes" Detail="What more could you ask for"></ImageCell>
+                        <ImageCell ImageSource="" Text="Chicken on a Stick" Detail="Variety of chicken on stciks"></ImageCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage>
+    
+    
+    
+    
+    <ContentPage Title="Profile">
+        <AbsoluteLayout>
+            <Label Text="TRUCK PROFILE"
+                   Font="24"
+                   TextColor="Teal"
+                   AbsoluteLayout.LayoutBounds="100,0,250,100"/>
+            
+            <Image BackgroundColor="Fuchsia"
+                   AbsoluteLayout.LayoutBounds="150, 40, 100, 100"/>
+             
+            <Label Text="Business Name:"
+                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+            <Label Text="Name from DB"
+                   AbsoluteLayout.LayoutBounds="150, 150, 150, 30"/>
+            
+            <Label Text="Food Type: "
+                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
+            <Label Text="Type from DB"
+                   AbsoluteLayout.LayoutBounds="150, 200, 150, 30"/>
+            
+            <Label Text="Contact Info: "
+                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+            <Label Text="Email From DB"
+                   AbsoluteLayout.LayoutBounds="150, 250, 150, 30"/>
+            
+            <Label Text="Menu:"
+                   AbsoluteLayout.LayoutBounds="20, 300, 50, 50"/>
+            <Image BackgroundColor="Silver"
+                   AbsoluteLayout.LayoutBounds="100, 300, 200, 150"/>
+            
+            <Button Text="Edit Profile"
+                    VerticalOptions="End"
+                    AbsoluteLayout.LayoutBounds="240, 0, 175, 30"
+                    BorderColor="Teal"/>
+            
+            
+            <Label Text="Share Location?"
+                   AbsoluteLayout.LayoutBounds="20,500, 150, 50 "/>
+            <Switch AbsoluteLayout.LayoutBounds="160, 495, 30, 30"/>
+            
+            <Button Text="Change Password"
+                    AbsoluteLayout.LayoutBounds="20, 550"
+                    />
+            
+        </AbsoluteLayout>   
+        
+    </ContentPage>
+    
+    
+    
+
+
+    
+</TabbedPage>

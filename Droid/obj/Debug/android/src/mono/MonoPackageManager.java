@@ -107,6 +107,9 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "InsideScoopMobile.Droid.dll" comes first in this list. */
 		"InsideScoopMobile.Droid.dll",
+		"BottomBar.Droid.dll",
+		"BottomBar.XamarinForms.dll",
+		"BottomNavigationBar.dll",
 		"FormsViewGroup.dll",
 		"InsideScoopMobile.dll",
 		"Microsoft.Azure.Mobile.Client.dll",

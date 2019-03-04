@@ -11,7 +11,7 @@ namespace InsideScoopMobile
 		public App ()
 		{
 			// The root page of your application
-			MainPage = new TodoList();
+			MainPage = new NavBar();
 		}
 
 		protected override void OnStart ()

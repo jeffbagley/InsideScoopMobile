@@ -1137,20 +1137,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/JBagley/.nuget/packages/": {}
+    "/Users/Cordell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JBagley/Downloads/Xamarin_Forms/Droid/InsideScoopMobile.Droid.csproj",
+      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
       "projectName": "InsideScoopMobile.Droid",
-      "projectPath": "/Users/JBagley/Downloads/Xamarin_Forms/Droid/InsideScoopMobile.Droid.csproj",
-      "packagesPath": "/Users/JBagley/.nuget/packages/",
-      "outputPath": "/Users/JBagley/Downloads/Xamarin_Forms/Droid/obj/",
+      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
+      "packagesPath": "/Users/Cordell/.nuget/packages/",
+      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/JBagley/.config/NuGet/NuGet.Config"
+        "/Users/Cordell/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -1161,8 +1161,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj": {
-              "projectPath": "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj"
+            "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
+              "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
             }
           }
         }

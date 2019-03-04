@@ -1585,20 +1585,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/JBagley/.nuget/packages/": {}
+    "/Users/Cordell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JBagley/Downloads/Xamarin_Forms/iOS/InsideScoopMobile.iOS.csproj",
+      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
       "projectName": "InsideScoopMobileiOS",
-      "projectPath": "/Users/JBagley/Downloads/Xamarin_Forms/iOS/InsideScoopMobile.iOS.csproj",
-      "packagesPath": "/Users/JBagley/.nuget/packages/",
-      "outputPath": "/Users/JBagley/Downloads/Xamarin_Forms/iOS/obj/",
+      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
+      "packagesPath": "/Users/Cordell/.nuget/packages/",
+      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/JBagley/.config/NuGet/NuGet.Config"
+        "/Users/Cordell/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1609,8 +1609,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj": {
-              "projectPath": "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj"
+            "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
+              "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
             }
           }
         }

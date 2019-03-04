@@ -4031,23 +4031,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/JBagley/.nuget/packages/": {},
+    "/Users/Cordell/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj",
+      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
       "projectName": "InsideScoopMobile",
-      "projectPath": "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/InsideScoopMobile.csproj",
-      "packagesPath": "/Users/JBagley/.nuget/packages/",
-      "outputPath": "/Users/JBagley/Downloads/Xamarin_Forms/InsideScoopMobile/obj/",
+      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
+      "packagesPath": "/Users/Cordell/.nuget/packages/",
+      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/JBagley/.config/NuGet/NuGet.Config"
+        "/Users/Cordell/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
