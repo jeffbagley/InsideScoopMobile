@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserProfile">
+    <ContentPage.Content>
+        
+        <AbsoluteLayout BackgroundColor="White">
+            
+            <Label Text="User Profile"
+                   Font="24"
+                   AbsoluteLayout.LayoutBounds="125, 0, 150,150"
+                   TextColor="Teal"/>
+            <Button Text="Edit Profile"
+                    VerticalOptions="End"
+                    AbsoluteLayout.LayoutBounds="250, 0, 175, 30"
+                    BorderColor="Teal"/>
+            
+            <Label Text="Email"
+                   TextColor="Black"
+                   AbsoluteLayout.LayoutBounds="20,50,150,150"/>
+            <Entry Placeholder="Profile name"
+                   AbsoluteLayout.LayoutBounds="150,45,150,30"/>
+                   
+            
+            <Label Text="Favorites"
+                   AbsoluteLayout.LayoutBounds="20, 100, 100,100"
+                   />
+            
+           
+    
+            
+            <Label Text="Ratings"
+                   AbsoluteLayout.LayoutBounds="20, 300, 100, 100"
+                   />
+            
+            <Button Text="Change Password"
+                    AbsoluteLayout.LayoutBounds="20, 550"
+                    />
+            
+                    
+        </AbsoluteLayout>
+    </ContentPage.Content>
+
+</ContentPage>

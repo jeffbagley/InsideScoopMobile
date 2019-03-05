@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.EditTruckProfile">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Label Text="EDIT TRUCK PROFILE"
+                   Font="24"
+                   TextColor="Teal"
+                   AbsoluteLayout.LayoutBounds="80,0,250,100"/>
+            <Button Text="Upload Picture"
+                    Font="12"
+                    AbsoluteLayout.LayoutBounds="20, 40, 100, 100"/>
+                    
+            <Image BackgroundColor="Fuchsia"
+                   AbsoluteLayout.LayoutBounds="150, 40, 100, 100"/>
+             
+            <Label Text="Business Name:"
+                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+            <Entry Placeholder="Name From DB"
+                   AbsoluteLayout.LayoutBounds="150, 145, 150, 30"/>
+            
+            <Label Text="Food Type: "
+                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
+            <Entry Placeholder="Type from DB"
+                   AbsoluteLayout.LayoutBounds="150, 195, 150, 30"/>
+            
+            <Label Text="Contact Info: "
+                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+            <Entry Placeholder="From DB"
+                   AbsoluteLayout.LayoutBounds="150, 245, 150, 30"/>
+            
+            <Label Text="Menu:"
+                   AbsoluteLayout.LayoutBounds="20, 300, 50, 50"/>
+            <Image BackgroundColor="Silver"
+                   AbsoluteLayout.LayoutBounds="100, 300, 200, 150"/>
+            <Button Text="Upload Menu"
+                    FontSize="12"
+                    AbsoluteLayout.LayoutBounds="0, 300, 100, 100"/>
+            
+            <Button Text="SUBMIT"
+                    BackgroundColor="Fuchsia"
+                    AbsoluteLayout.LayoutBounds="220, 480, 100, 50"/>
+
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+
+</ContentPage>
