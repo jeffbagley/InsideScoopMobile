@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckProfile">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckProfile" Title="TruckProfile">
+    
     <ContentPage.Content>
         
         <AbsoluteLayout>
             <Label Text="TRUCK PROFILE"
                    Font="24"
                    TextColor="Teal"
-                   AbsoluteLayout.LayoutBounds="100,0,250,100"/>
+                   AbsoluteLayout.LayoutBounds="100,50,250,100"/>
             
             <Image BackgroundColor="Fuchsia"
-                   AbsoluteLayout.LayoutBounds="150, 40, 100, 100"/>
+                   AbsoluteLayout.LayoutBounds="150, 90, 100, 100"/>
              
             <Label Text="Business Name:"
-                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
             <Label Text="Name from DB"
-                   AbsoluteLayout.LayoutBounds="150, 150, 150, 30"/>
-            
-            <Label Text="Food Type: "
-                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
-            <Label Text="Type from DB"
                    AbsoluteLayout.LayoutBounds="150, 200, 150, 30"/>
             
-            <Label Text="Contact Info: "
-                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
-            <Label Text="Email From DB"
+            <Label Text="Food Type: "
+                   AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
+            <Label Text="Type from DB"
                    AbsoluteLayout.LayoutBounds="150, 250, 150, 30"/>
             
+            <Label Text="Contact Info: "
+                   AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
+            <Label Text="Email From DB"
+                   AbsoluteLayout.LayoutBounds="150, 300, 150, 30"/>
+            
             <Label Text="Menu:"
-                   AbsoluteLayout.LayoutBounds="20, 300, 50, 50"/>
+                   AbsoluteLayout.LayoutBounds="20, 350, 50, 50"/>
             <Image BackgroundColor="Silver"
-                   AbsoluteLayout.LayoutBounds="100, 300, 200, 150"/>
+                   AbsoluteLayout.LayoutBounds="100, 350, 200, 150"/>
             
             <Button Text="Edit Profile"
                     VerticalOptions="End"
-                    AbsoluteLayout.LayoutBounds="240, 0, 175, 30"
-                    BorderColor="Teal"/>
+                    AbsoluteLayout.LayoutBounds="235, 50, 175, 30"
+                    BorderColor="Teal"
+                    x:Name="Edit"
+                    Clicked="Edit_Clicked"
+                    />
             
             
             <Label Text="Share Location?"
-                   AbsoluteLayout.LayoutBounds="20,500, 150, 50 "/>
-            <Switch AbsoluteLayout.LayoutBounds="160, 495, 30, 30"/>
+                   AbsoluteLayout.LayoutBounds="20,550, 150, 50 "/>
+            <Switch AbsoluteLayout.LayoutBounds="160, 545, 30, 30"/>
             
             <Button Text="Change Password"
-                    AbsoluteLayout.LayoutBounds="20, 550"
+                    AbsoluteLayout.LayoutBounds="20, 600"
                     />
             
         </AbsoluteLayout>

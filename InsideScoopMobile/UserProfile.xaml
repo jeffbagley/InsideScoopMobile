@@ -6,34 +6,34 @@
             
             <Label Text="User Profile"
                    Font="24"
-                   AbsoluteLayout.LayoutBounds="125, 0, 150,150"
+                   AbsoluteLayout.LayoutBounds="125, 50, 150,150"
                    TextColor="Teal"/>
             <Button Text="Edit Profile"
                     VerticalOptions="End"
-                    AbsoluteLayout.LayoutBounds="250, 0, 175, 30"
+                    AbsoluteLayout.LayoutBounds="235, 50, 175, 30"
                     BorderColor="Teal"/>
             
-            <Label Text="Email"
+            <Label Text="Email:"
                    TextColor="Black"
-                   AbsoluteLayout.LayoutBounds="20,50,150,150"/>
-            <Entry Placeholder="Profile name"
-                   AbsoluteLayout.LayoutBounds="150,45,150,30"/>
+                   AbsoluteLayout.LayoutBounds="20,100,150,150"/>
+            <Label Text="Profile name"
+                   AbsoluteLayout.LayoutBounds="135,95,150,30"/>
                    
             
-            <Label Text="Favorites"
-                   AbsoluteLayout.LayoutBounds="20, 100, 100,100"
-                   />
+            <Label Text="Favorites:"
+                   AbsoluteLayout.LayoutBounds="20, 150, 100,100"/>
             
-           
-    
+            <ListView AbsoluteLayout.LayoutBounds="100, 150, 250, 200"/>
+          
             
-            <Label Text="Ratings"
-                   AbsoluteLayout.LayoutBounds="20, 300, 100, 100"
-                   />
+            <Label Text="Ratings:"
+                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
+            
+            <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
             
             <Button Text="Change Password"
-                    AbsoluteLayout.LayoutBounds="20, 550"
-                    />
+                    AbsoluteLayout.LayoutBounds="20, 550"/>
+
             
                     
         </AbsoluteLayout>

@@ -11,5 +11,10 @@ namespace InsideScoopMobile
         {
             InitializeComponent();
         }
+
+        async void Submit_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PopAsync();
+        }
     }
 }

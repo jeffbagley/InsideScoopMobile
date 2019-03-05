@@ -3,32 +3,43 @@
     <ContentPage.Content>
         <AbsoluteLayout>
             <Label Text="EDIT PROFILE"
-                   AbsoluteLayout.LayoutBounds="150,0,150,150"/>
+                   AbsoluteLayout.LayoutBounds="150,50,150,150"/>
             
-            <Label Text="First Name"
-                   AbsoluteLayout.LayoutBounds="20,50,100,100"/>
-            <Entry Placeholder="First Name from DB"
-                   AbsoluteLayout.LayoutBounds="120,45,200,30"/>
-            
-            <Label Text="Last Name"
-                   AbsoluteLayout.LayoutBounds="20,100, 100, 100"/>
-            <Entry Placeholder="Last Name from DB"
+            <Label Text="Email:"
+                   AbsoluteLayout.LayoutBounds="20,100,100,100"/>
+            <Entry Placeholder="Email from DB"
                    AbsoluteLayout.LayoutBounds="120,95,200,30"/>
             
-            <Label Text="Favorites"
+            
+            
+            <Label Text="Favorites:"
                    AbsoluteLayout.LayoutBounds="20, 150, 100, 100"/>
+            <ListView AbsoluteLayout.LayoutBounds="100, 150, 150, 200"/>
+            
+   
+            
+            
+            <Label Text="Ratings:"
+                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
+                        <ListView AbsoluteLayout.LayoutBounds="100, 150, 250, 200"/>
+            <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
+
             
             <Label Text="Allow Push Notifications?"
-                   AbsoluteLayout.LayoutBounds="20, 350, 250, 50"/>
-            <Switch AbsoluteLayout.LayoutBounds="230, 345, 105, 50"/>
+                   AbsoluteLayout.LayoutBounds="20, 550, 250, 50"/>
+            
+            <Switch AbsoluteLayout.LayoutBounds="230, 545, 105, 50"/>
             
             
             <Button Text="SUBMIT"
                     BackgroundColor="Fuchsia"
-                    AbsoluteLayout.LayoutBounds="220, 400, 100, 50"/>
+                    AbsoluteLayout.LayoutBounds="220, 600, 100, 50"
+                    x:Name="Submit"
+                    Clicked="Submit_Clicked"/>
             
             
         </AbsoluteLayout>
+
     </ContentPage.Content>
 
 </ContentPage>

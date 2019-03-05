@@ -11,5 +11,10 @@ namespace InsideScoopMobile
         {
             InitializeComponent();
         }
+
+        async void Edit_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new EditTruckProfile());
+        }
     }
 }

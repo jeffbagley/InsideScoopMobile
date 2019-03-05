@@ -5,40 +5,45 @@
             <Label Text="EDIT TRUCK PROFILE"
                    Font="24"
                    TextColor="Teal"
-                   AbsoluteLayout.LayoutBounds="80,0,250,100"/>
+                   AbsoluteLayout.LayoutBounds="80,50,250,100"/>
             <Button Text="Upload Picture"
                     Font="12"
-                    AbsoluteLayout.LayoutBounds="20, 40, 100, 100"/>
+                    AbsoluteLayout.LayoutBounds="20, 90, 100, 100"/>
                     
             <Image BackgroundColor="Fuchsia"
-                   AbsoluteLayout.LayoutBounds="150, 40, 100, 100"/>
+                   AbsoluteLayout.LayoutBounds="150, 90, 100, 100"/>
              
             <Label Text="Business Name:"
-                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
             <Entry Placeholder="Name From DB"
-                   AbsoluteLayout.LayoutBounds="150, 145, 150, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 195, 150, 30"
+                   x:Name="Name"/>
             
             <Label Text="Food Type: "
-                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
             <Entry Placeholder="Type from DB"
-                   AbsoluteLayout.LayoutBounds="150, 195, 150, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 245, 150, 30"
+                   x:Name="FoodType"/>
             
             <Label Text="Contact Info: "
-                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
             <Entry Placeholder="From DB"
-                   AbsoluteLayout.LayoutBounds="150, 245, 150, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 295, 150, 30"
+                   x:Name="Email"/>
             
             <Label Text="Menu:"
-                   AbsoluteLayout.LayoutBounds="20, 300, 50, 50"/>
+                   AbsoluteLayout.LayoutBounds="20, 350, 50, 50"/>
             <Image BackgroundColor="Silver"
-                   AbsoluteLayout.LayoutBounds="100, 300, 200, 150"/>
+                   AbsoluteLayout.LayoutBounds="100, 350, 200, 150"/>
             <Button Text="Upload Menu"
                     FontSize="12"
-                    AbsoluteLayout.LayoutBounds="0, 300, 100, 100"/>
+                    AbsoluteLayout.LayoutBounds="0, 400, 100, 100"/>
             
             <Button Text="SUBMIT"
                     BackgroundColor="Fuchsia"
-                    AbsoluteLayout.LayoutBounds="220, 480, 100, 50"/>
+                    AbsoluteLayout.LayoutBounds="220, 530, 100, 50"
+                    x:Name="Submit"
+                    Clicked="Submit_Clicked"/>
 
             
         </AbsoluteLayout>
