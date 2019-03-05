@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+<ContentPage 
+             xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-             x:Class="InsideScoopMobile.LoginPage">
-    <StackLayout>
-    
-        <!-- Place new controls here -->
-        <Image Source="truck" 
-               HorizontalOptions="Center"/>
+             x:Class="InsideScoopMobile.LoginPage">  
+    <AbsoluteLayout>
+        
+        <Image Source="test2.png"
+               AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"/>
+        <Image Source="title.png"
+               AbsoluteLayout.LayoutBounds=".5,.1,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Entry Placeholder="Username"
-               TextColor="Aqua"
-               x:Name="Email"/>
+               x:Name="Email"
+               AbsoluteLayout.LayoutBounds=".5,.3,400,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Entry Placeholder="Password"
                IsPassword="true"
-               x:Name="Password"/>
+               x:Name="Password"
+               AbsoluteLayout.LayoutBounds=".5,.4,400,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Button Text="Login"
-                BorderColor="Aqua"
+                FontSize="Large"
+                TextColor="White"
                 x:Name="Login"
-                Clicked="Login_Clicked"/>
+                Clicked="Login_Clicked"
+                AbsoluteLayout.LayoutBounds=".25,.5,100,100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <Button Text="Sign Up"
-                BorderColor="Aqua"
+                FontSize="Large"
+                TextColor="White"
                 x:Name="SignUp"
-                Clicked="SignUp_Clicked"/>
-    </StackLayout>
+                Clicked="SignUp_Clicked"
+                AbsoluteLayout.LayoutBounds=".75,.5,100,100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Button Text="Guest"
+                FontSize="Large"
+                TextColor="White"
+                x:Name="Guest"
+                Clicked="Guest_Clicked"
+                AbsoluteLayout.LayoutBounds=".5,.55,100,200" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+    </AbsoluteLayout>
 </ContentPage>
+

@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/LoginPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/TruckProfile.xaml">
     <Files>
       <File FileName="InsideScoopMobile/App.cs" Line="12" Column="4" />
-      <File FileName="InsideScoopMobile/LoginPage.xaml.cs" Line="16" Column="10" />
-      <File FileName="InsideScoopMobile/LoginPage.xaml" Line="24" Column="1" />
+      <File FileName="InsideScoopMobile/LoginPage.xaml.cs" Line="38" Column="10" />
+      <File FileName="InsideScoopMobile/LoginPage.xaml" Line="11" Column="49" />
+      <File FileName="InsideScoopMobile/TruckProfile.xaml" Line="51" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
-              <Node name="LoginPage.xaml" expanded="True" selected="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="TruckProfile.xaml" selected="True" />
             </Node>
-            <Node name="InsideScoopMobile.Droid" expanded="True" />
+            <Node name="InsideScoopMobile.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
-  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6B1B5769-1983-4CC5-A834-7A66DDECC42A" />
+  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50EFBA9E-9A21-431B-836F-66FBD7D919ED" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

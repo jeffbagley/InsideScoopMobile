@@ -1585,20 +1585,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Cordell/.nuget/packages/": {}
+    "/Users/Courtney/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
+      "projectUniqueName": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
       "projectName": "InsideScoopMobileiOS",
-      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
-      "packagesPath": "/Users/Cordell/.nuget/packages/",
-      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/",
+      "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/InsideScoopMobile.iOS.csproj",
+      "packagesPath": "/Users/Courtney/.nuget/packages/",
+      "outputPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Cordell/.config/NuGet/NuGet.Config"
+        "/Users/Courtney/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1609,8 +1609,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
-              "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
+            "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
+              "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
             }
           }
         }

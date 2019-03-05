@@ -1137,20 +1137,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Cordell/.nuget/packages/": {}
+    "/Users/Courtney/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
+      "projectUniqueName": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
       "projectName": "InsideScoopMobile.Droid",
-      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
-      "packagesPath": "/Users/Cordell/.nuget/packages/",
-      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/",
+      "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
+      "packagesPath": "/Users/Courtney/.nuget/packages/",
+      "outputPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Cordell/.config/NuGet/NuGet.Config"
+        "/Users/Courtney/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -1161,8 +1161,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
-              "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
+            "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
+              "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
             }
           }
         }

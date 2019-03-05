@@ -32,6 +32,10 @@ namespace InsideScoopMobile
         {
             throw new NotImplementedException();
         }
+        void Guest_Clicked(object sender, System.EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
 
     }
 }
