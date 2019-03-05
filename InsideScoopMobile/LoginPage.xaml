@@ -8,9 +8,11 @@
         <Image Source="truck" 
                HorizontalOptions="Center"/>
         <Entry Placeholder="Username"
-               TextColor="Aqua"/>
+               TextColor="Aqua"
+               x:Name="Email"/>
         <Entry Placeholder="Password"
-               IsPassword="true"/>
+               IsPassword="true"
+               x:Name="Password"/>
         <Button Text="Login"
                 BorderColor="Aqua"
                 x:Name="Login"

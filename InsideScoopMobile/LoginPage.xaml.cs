@@ -12,9 +12,20 @@ namespace InsideScoopMobile
             InitializeComponent();
         }
 
-        void Login_Clicked(object sender, System.EventArgs e)
+        async void Login_Clicked(object sender, System.EventArgs e)
         {
-            throw new NotImplementedException();
+            string user = Email.Text;
+            string password = Password.Text;
+
+            Console.WriteLine(user);
+            Console.WriteLine(password);
+
+            if(string.Compare(user, "Cordell") == 0) {
+                await Navigation.PushAsync(new NavBar());
+
+            }
+
+
         }
 
         void SignUp_Clicked(object sender, System.EventArgs e)

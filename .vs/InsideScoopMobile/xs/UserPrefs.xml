@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/NavBar.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/LoginPage.xaml">
     <Files>
-      <File FileName="InsideScoopMobile/UserProfile.xaml" Line="43" Column="1" />
-      <File FileName="InsideScoopMobile/TruckProfile.xaml" Line="51" Column="1" />
-      <File FileName="InsideScoopMobile/TodoList.xaml" Line="54" Column="1" />
-      <File FileName="InsideScoopMobile/NavBar.xaml" Line="82" Column="1" />
+      <File FileName="InsideScoopMobile/App.cs" Line="12" Column="4" />
+      <File FileName="InsideScoopMobile/LoginPage.xaml.cs" Line="16" Column="10" />
+      <File FileName="InsideScoopMobile/LoginPage.xaml" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
-              <Node name="NavBar.xaml" selected="True" />
-              <Node name="UserProfile.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" selected="True" />
             </Node>
             <Node name="InsideScoopMobile.Droid" expanded="True" />
           </Node>

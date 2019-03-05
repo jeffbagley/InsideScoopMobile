@@ -4,6 +4,9 @@
              x:Class="InsideScoopMobile.NavBar">
     
     
+    <ContentPage Title="Map View">
+    </ContentPage>
+    
     
     <ContentPage Title="List View">
         <StackLayout>
