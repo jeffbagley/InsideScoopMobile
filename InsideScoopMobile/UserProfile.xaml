@@ -32,7 +32,9 @@
             <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
             
             <Button Text="Change Password"
-                    AbsoluteLayout.LayoutBounds="20, 550"/>
+                    AbsoluteLayout.LayoutBounds="20, 550"
+                    x:Name="Pass"
+                    Clicked="Pass_Clicked"/>
 
             
                     

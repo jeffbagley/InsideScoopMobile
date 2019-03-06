@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.ViewTruck">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Entry Placeholder="Truck Name"
+                   AbsoluteLayout.LayoutBounds="90, 50, 200, 30"/>
+            
+            <Label Text="Food Type:"
+                   AbsoluteLayout.LayoutBounds="20, 250, 150, 100"/>
+            <Entry Placeholder="Food"
+                   AbsoluteLayout.LayoutBounds="150, 245, 200, 30"/>
+            
+            <Label Text="Rating:"
+                   AbsoluteLayout.LayoutBounds="20, 300, 100, 100"/>
+            
+            <Label Text="Contact Info:"
+                   AbsoluteLayout.LayoutBounds="20, 350, 150, 100"/>
+            <Entry Placeholder="Email"
+                   AbsoluteLayout.LayoutBounds="150, 345, 200, 30"/>
+            
+            <Label Text="Menu:"
+                   AbsoluteLayout.LayoutBounds="20, 400, 150, 100"/>
+            
+            
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -16,5 +16,10 @@ namespace InsideScoopMobile
         {
             await Navigation.PushAsync(new EditTruckProfile());
         }
+
+        async void Pass_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new PasswordChange());
+        }
     }
 }

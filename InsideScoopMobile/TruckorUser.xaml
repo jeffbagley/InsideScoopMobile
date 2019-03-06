@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckorUser">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            
+            <Label Text="Are you a truck or a user?"
+                   AbsoluteLayout.LayoutBounds="75, 50, 400, 100"/>
+            
+            
+            <Button Text="TRUCK"
+                    AbsoluteLayout.LayoutBounds="5, 150, 200, 100"
+                    x:Name="Truck"
+                    Clicked="Truck_Clicked"/>
+            
+            
+            <Button Text="USER"
+                    AbsoluteLayout.LayoutBounds="150, 150, 200, 100"
+                    x:Name="User"
+                    Clicked="User_Clicked"/>
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

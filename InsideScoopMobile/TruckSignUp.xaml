@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckSignUp">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Label Text="Food Truck Create Account"
+                   AbsoluteLayout.LayoutBounds="80, 50, 250, 100"/>
+            
+            <Label Text="Enter the Following Information"
+                   AbsoluteLayout.LayoutBounds="70, 100, 400, 100"/>
+            
+            <Label Text="Truck Name:"
+                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+            
+            <Entry Placeholder="Truck Name"
+                   AbsoluteLayout.LayoutBounds="210, 145, 150, 30"/>
+            
+            
+            
+            <Label Text="Food EIN Number:"
+                   AbsoluteLayout.LayoutBounds="20, 200, 200, 100"/>
+            
+            <Entry Placeholder="EIN"
+                   AbsoluteLayout.LayoutBounds="210, 195, 150, 30"/>
+            
+            
+            
+            <Label Text="Email:"
+                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+            
+            <Entry Placeholder="Email"
+                   AbsoluteLayout.LayoutBounds="210, 245, 150, 30"/>
+            
+            
+            
+            <Label Text="Food Type:"
+                   AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
+            
+            <Picker Title="Food Type"
+                    AbsoluteLayout.LayoutBounds="210, 295, 150, 30"/>
+            
+            
+            <Label Text="Password:"
+                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
+            
+            <Entry Placeholder="Password"
+                   AbsoluteLayout.LayoutBounds="210, 345, 150, 30"/>
+            
+            
+            <Label Text="Confirm Password:"
+                   AbsoluteLayout.LayoutBounds="20, 400, 200, 100"/>
+            
+            <Entry Placeholder="Confirm"
+                   AbsoluteLayout.LayoutBounds="210, 395, 150, 30"/>
+            
+            
+            
+            <Button Text="SUBMIT"
+                    BackgroundColor="Fuchsia"
+                    AbsoluteLayout.LayoutBounds="220, 600, 100, 50"
+                    x:Name="Submit"
+                    Clicked="Submit_Clicked"/>
+            
+            
+            
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

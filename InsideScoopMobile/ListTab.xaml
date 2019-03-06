@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.ListTab">
+    <ContentPage.Content>
+        <TableView Intent="Data">
+                <TableRoot>
+                    <TableSection Title="List View">
+                        
+                        <ImageCell ImageSource="" Text="Geoff's Ice Cream" Detail="Lots of ice cream choices"></ImageCell>
+                        <ImageCell ImageSource="" Text="Taco Truck" Detail="Authenic Mexican"></ImageCell>
+                        <ImageCell ImageSource="" Text="Noodle Wagon" Detail="Real Good"></ImageCell>
+                        <ImageCell ImageSource="" Text="Good Pizza" Detail="We make good pizza"></ImageCell>
+                        <ImageCell ImageSource="" Text="Burgers, Fries n Shakes" Detail="What more could you ask for"></ImageCell>
+                        <ImageCell ImageSource="" Text="Chicken on a Stick" Detail="Variety of chicken on stciks"></ImageCell>
+                        
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+    </ContentPage.Content>
+</ContentPage>

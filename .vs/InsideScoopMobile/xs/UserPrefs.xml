@@ -1,26 +1,21 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/MapPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/UserSignUp.xaml.cs">
     <Files>
-      <File FileName="InsideScoopMobile/NavBar.xaml" Line="29" Column="34" />
-      <File FileName="InsideScoopMobile/EditTruckProfile.xaml.cs" Line="21" Column="41" />
-      <File FileName="InsideScoopMobile/EditUserProfile.xaml" Line="28" Column="21" />
-      <File FileName="InsideScoopMobile/EditUserProfile.xaml.cs" Line="17" Column="41" />
-      <File FileName="InsideScoopMobile/MapPage.xaml" Line="2" Column="150" />
-      <File FileName="InsideScoopMobile/MapPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="InsideScoopMobile/TruckorUser.xaml.cs" Line="21" Column="10" />
+      <File FileName="InsideScoopMobile/UserSignUp.xaml.cs" Line="14" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
-              <Node name="EditTruckProfile.xaml" expanded="True" />
-              <Node name="EditUserProfile.xaml" expanded="True" />
-              <Node name="MapPage.xaml" expanded="True" selected="True" />
-              <Node name="NavBar.xaml" expanded="True" />
-              <Node name="TruckProfile.xaml" expanded="True" />
-              <Node name="UserProfile.xaml" expanded="True" />
+              <Node name="ListTab.xaml" expanded="True" />
+              <Node name="TruckorUser.xaml" expanded="True" />
+              <Node name="UserSignUp.xaml" expanded="True">
+                <Node name="UserSignUp.xaml.cs" selected="True" />
+              </Node>
+              <Node name="ViewTruck.xaml" expanded="True" />
             </Node>
-            <Node name="InsideScoopMobile.Droid" expanded="True" />
           </Node>
         </State>
       </Pad>

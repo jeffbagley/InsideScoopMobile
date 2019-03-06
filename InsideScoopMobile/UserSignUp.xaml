@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserSignUp">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            
+            <Label Text="User Create Account"
+                   AbsoluteLayout.LayoutBounds="80, 50, 250, 100"/>
+            
+            
+            <Label Text="Enter the Following Information"
+                   AbsoluteLayout.LayoutBounds="50, 100, 400, 100"/>
+            
+            
+            
+            <Label Text="Email:"
+                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
+            
+            <Entry Placeholder="Email"
+                   AbsoluteLayout.LayoutBounds="210, 145, 150, 30"/>
+            
+            
+            <Label Text="Password:"
+                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
+            
+            <Entry Placeholder="Password"
+                   AbsoluteLayout.LayoutBounds="210, 195, 150, 30"/>
+            
+            
+            <Label Text="Confirm Password:"
+                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+            
+            <Entry Placeholder="Confirm"
+                   AbsoluteLayout.LayoutBounds="210, 245, 150, 30"/>
+            
+            <Button Text="SUBMIT"
+                    BackgroundColor="Fuchsia"
+                    AbsoluteLayout.LayoutBounds="235, 300, 100, 50"
+                    x:Name="Submit"
+                    Clicked="Submit_Clicked"/>
+            
+            
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

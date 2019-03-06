@@ -10,25 +10,21 @@
             <Entry Placeholder="Email from DB"
                    AbsoluteLayout.LayoutBounds="120,95,200,30"/>
             
+            <Label Text="Settings:"
+                   AbsoluteLayout.LayoutBounds="20,150, 100, 100"/>
             
             
             <Label Text="Favorites:"
-                   AbsoluteLayout.LayoutBounds="20, 150, 100, 100"/>
-            <ListView AbsoluteLayout.LayoutBounds="100, 150, 150, 200"/>
+                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
+            <ListView AbsoluteLayout.LayoutBounds="100, 200, 250, 400"/>
             
-   
-            
-            
-            <Label Text="Ratings:"
-                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
-                        <ListView AbsoluteLayout.LayoutBounds="100, 150, 250, 200"/>
-            <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
+
 
             
             <Label Text="Allow Push Notifications?"
-                   AbsoluteLayout.LayoutBounds="20, 550, 250, 50"/>
+                   AbsoluteLayout.LayoutBounds="100, 150, 250, 50"/>
             
-            <Switch AbsoluteLayout.LayoutBounds="230, 545, 105, 50"/>
+            <Switch AbsoluteLayout.LayoutBounds="310, 145, 105, 50"/>
             
             
             <Button Text="SUBMIT"

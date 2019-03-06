@@ -47,7 +47,8 @@
             
             <Button Text="Change Password"
                     AbsoluteLayout.LayoutBounds="20, 600"
-                    />
+                    x:Name="Pass"
+                    Clicked="Pass_Clicked"/>
             
         </AbsoluteLayout>
     </ContentPage.Content>
