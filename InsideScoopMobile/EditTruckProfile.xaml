@@ -21,9 +21,9 @@
             
             <Label Text="Food Type: "
                    AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
-            <Entry Placeholder="Type from DB"
+            <Picker Title="Type from DB"
                    AbsoluteLayout.LayoutBounds="150, 245, 150, 30"
-                   x:Name="FoodType"/>
+                   x:Name="Dropdown"/>
             
             <Label Text="Contact Info: "
                    AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>

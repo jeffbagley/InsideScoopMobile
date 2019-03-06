@@ -36,7 +36,8 @@
                    AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
             
             <Picker Title="Food Type"
-                    AbsoluteLayout.LayoutBounds="210, 295, 150, 30"/>
+                    AbsoluteLayout.LayoutBounds="210, 295, 150, 30"
+                    x:Name="Dropdown"/>
             
             
             <Label Text="Password:"

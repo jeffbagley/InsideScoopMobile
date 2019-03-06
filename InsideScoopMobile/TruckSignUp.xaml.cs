@@ -10,6 +10,11 @@ namespace InsideScoopMobile
         public TruckSignUp()
         {
             InitializeComponent();
+            Dropdown.Items.Add("Candy");
+            Dropdown.Items.Add("Breakfast");
+            Dropdown.Items.Add("Lunch");
+            Dropdown.Items.Add("Dinner");
+
         }
 
         async void Submit_Clicked(object sender, System.EventArgs e)
