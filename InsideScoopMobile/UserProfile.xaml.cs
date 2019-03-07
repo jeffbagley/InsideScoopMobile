@@ -14,7 +14,7 @@ namespace InsideScoopMobile
 
         async void Pass_Clicked(object sender, System.EventArgs e)
         {
-            await Navigation.PopAsync();
+            await Navigation.PushAsync(new PasswordChange());
         }
     }
 }

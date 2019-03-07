@@ -1,48 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserProfile" Title="User Profile">
     <ContentPage.Content>
-        
-        <AbsoluteLayout BackgroundColor="White">
-            
-            <Label Text="User Profile"
-                   Font="24"
-                   AbsoluteLayout.LayoutBounds="125, 50, 150,150"
-                   TextColor="Teal"/>
-            <Button Text="Edit Profile"
-                    VerticalOptions="End"
-                    AbsoluteLayout.LayoutBounds="235, 50, 175, 30"
-                    BorderColor="Teal"/>
-            
-            <Label Text="Email:"
-                   TextColor="Black"
-                   AbsoluteLayout.LayoutBounds="20,100,150,150"/>
-            <Label Text="Customer@gmail.com"
-                   AbsoluteLayout.LayoutBounds="150,95,200,40"/>
-                   
-            
-            <Label Text="Favorites:"
-                   AbsoluteLayout.LayoutBounds="20, 150, 100,100"/>
-            
-            <ListView AbsoluteLayout.LayoutBounds="100, 150, 250, 200"/>
+        <Grid>
+            <RelativeLayout>
+                <Image Source="gradient.png"
+                       RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                       RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            </RelativeLayout>
+        <AbsoluteLayout>
+                <Image Source="title.png"
+                       AbsoluteLayout.LayoutBounds=".5,.01,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
           
             
-            <Label Text="Ratings:"
-                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
+                <Button Text="Edit Profile"
+                        VerticalOptions="End"
+                        AbsoluteLayout.LayoutBounds=".5, .2, 175, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        BorderColor="Teal"/>
             
-            <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
+                <Label Text="Email:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01,.3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Label Text="Customer@gmail.com"
+                       AbsoluteLayout.LayoutBounds=".5,.3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+          
             
-            <Label Text="Allow Push Notifications"
-                       AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Switch AbsoluteLayout.LayoutBounds=".6, .8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Label Text="Places You've Eaten:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
-            <Button Text="Change Password"
-                    AbsoluteLayout.LayoutBounds="20, 600"
-                    x:Name="Pass"
-                    Clicked="Pass_Clicked"/>
+                <ListView AbsoluteLayout.LayoutBounds=".5, .65, 250, 200" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
+                <Label Text="Allow Push Notifications"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01 ,.85" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Switch AbsoluteLayout.LayoutBounds=".6, .85" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
+                <Button Text="Change Password"
+                        AbsoluteLayout.LayoutBounds=".01, .95" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="Pass"
+                        Clicked="Pass_Clicked"/>
 
             
                     
         </AbsoluteLayout>
+        </Grid>
+        
     </ContentPage.Content>
 
 </ContentPage>
