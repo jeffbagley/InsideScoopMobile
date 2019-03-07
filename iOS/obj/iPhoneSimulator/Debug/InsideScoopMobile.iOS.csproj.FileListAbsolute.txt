@@ -362,3 +362,9 @@
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/tsutitle.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptruck2.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptitle.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/gradient.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/yourprofile.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/editruck.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signupuser.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/usersignup.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/changep.png

@@ -1,45 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserSignUp">
     <ContentPage.Content>
-        <AbsoluteLayout>
+        <Grid>
+            <RelativeLayout>
+                <Image Source="signupuser.png"
+                       RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                       RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            </RelativeLayout>
+            <AbsoluteLayout>
+                <Image Source="usersignup.png"
+                       AbsoluteLayout.LayoutBounds=".5,.1,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
             
-            <Label Text="User Create Account"
-                   AbsoluteLayout.LayoutBounds="80, 50, 250, 100"/>
+                <Label Text="Email:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01, .3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
-            
-            <Label Text="Enter the Following Information"
-                   AbsoluteLayout.LayoutBounds="50, 100, 400, 100"/>
-            
-            
-            
-            <Label Text="Email:"
-                   AbsoluteLayout.LayoutBounds="20, 150, 150, 100"/>
-            
-            <Entry Placeholder="Email"
-                   AbsoluteLayout.LayoutBounds="210, 145, 150, 30"/>
-            
-            
-            <Label Text="Password:"
-                   AbsoluteLayout.LayoutBounds="20, 200, 100, 100"/>
-            
-            <Entry Placeholder="Password"
-                   AbsoluteLayout.LayoutBounds="210, 195, 150, 30"/>
+                <Entry Placeholder="Email"
+                       AbsoluteLayout.LayoutBounds=".75, .3,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
             
-            <Label Text="Confirm Password:"
-                   AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
+                <Label Text="Password:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01, .35" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
-            <Entry Placeholder="Confirm"
-                   AbsoluteLayout.LayoutBounds="210, 245, 150, 30"/>
+                <Entry Placeholder="Password"
+                       AbsoluteLayout.LayoutBounds=".75, .35,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
-            <Button Text="SUBMIT"
-                    BackgroundColor="Fuchsia"
-                    AbsoluteLayout.LayoutBounds="235, 300, 100, 50"
-                    x:Name="Submit"
-                    Clicked="Submit_Clicked"/>
+            
+                <Label Text="Confirm Password:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
+                <Entry Placeholder="Confirm"
+                       AbsoluteLayout.LayoutBounds=".75, .4, 150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
+                <Button Text="SUBMIT"
+                        FontSize="Large"
+                        AbsoluteLayout.LayoutBounds=".5, .5, 100, 50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="Submit"
+                        Clicked="Submit_Clicked"/>
             
             
             
         </AbsoluteLayout>
+            
+        </Grid>
+        
     </ContentPage.Content>
 </ContentPage>

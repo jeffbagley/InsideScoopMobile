@@ -60,7 +60,6 @@
                      
                 <Button Text="SUBMIT"
                         FontSize="Large"
-                        TextColor="White"
                         AbsoluteLayout.LayoutBounds=".5,.65,100,50" AbsoluteLayout.LayoutFlags="PositionProportional"
                         x:Name="Submit"
                         Clicked="Submit_Clicked"/>

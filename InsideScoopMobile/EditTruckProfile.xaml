@@ -1,52 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.EditTruckProfile">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            <Label Text="EDIT TRUCK PROFILE"
-                   Font="24"
-                   TextColor="Teal"
-                   AbsoluteLayout.LayoutBounds="80,50,250,100"/>
-            <Button Text="Upload Picture"
-                    Font="12"
-                    AbsoluteLayout.LayoutBounds="20, 90, 100, 100"/>
+        <Grid>
+            <RelativeLayout>
+            <Image Source="editruck.png"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                    RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+        </RelativeLayout>
+            <AbsoluteLayout>
+                
+                <Button Text="Upload Picture"
+                        Font="12"
+                        FontSize="12"
+                        AbsoluteLayout.LayoutBounds="20, 90, 100, 100"/>
                     
-            <Image BackgroundColor="Fuchsia"
-                   AbsoluteLayout.LayoutBounds="150, 90, 100, 100"/>
+                <Image BackgroundColor="Fuchsia"
+                       AbsoluteLayout.LayoutBounds="150, 90, 100, 100"/>
              
-            <Label Text="Business Name:"
-                   AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
-            <Entry Placeholder="Name From DB"
-                   AbsoluteLayout.LayoutBounds="150, 195, 150, 30"
-                   x:Name="Name"/>
+                <Label Text="Business Name:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
+                
+                <Entry Placeholder="Name From DB"
+                       AbsoluteLayout.LayoutBounds="150, 195, 150, 30"
+                       x:Name="Name"/>
             
-            <Label Text="Food Type: "
-                   AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
-            <Picker Title="Type from DB"
-                   AbsoluteLayout.LayoutBounds="150, 245, 150, 30"
-                   x:Name="Dropdown"/>
+                <Label Text="Food Type: "
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
+                
+                <Picker Title="Type from DB"
+                        AbsoluteLayout.LayoutBounds="150, 245, 150, 30"
+                        x:Name="Dropdown"/>
             
-            <Label Text="Contact Info: "
-                   AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
-            <Entry Placeholder="From DB"
-                   AbsoluteLayout.LayoutBounds="150, 295, 150, 30"
-                   x:Name="Email"/>
+                <Label Text="Contact Info: "
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
+                
+                <Entry Placeholder="From DB"
+                       AbsoluteLayout.LayoutBounds="150, 295, 150, 30"
+                       x:Name="Email"/>
             
-            <Label Text="Menu:"
-                   AbsoluteLayout.LayoutBounds="20, 350, 50, 50"/>
-            <Image BackgroundColor="Silver"
-                   AbsoluteLayout.LayoutBounds="100, 350, 200, 150"/>
-            <Button Text="Upload Menu"
-                    FontSize="12"
-                    AbsoluteLayout.LayoutBounds="0, 400, 100, 100"/>
+                <Label Text="Menu:"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds="20, 350, 50, 50"/>
+                
+                <Image BackgroundColor="Silver"
+                       AbsoluteLayout.LayoutBounds="100, 350, 200, 150"/>
+                
+                <Button Text="Upload Menu"
+                        FontSize="12"
+                        AbsoluteLayout.LayoutBounds="0, 400, 100, 100"/>
             
-            <Button Text="SUBMIT"
-                    BackgroundColor="Fuchsia"
-                    AbsoluteLayout.LayoutBounds="220, 530, 100, 50"
-                    x:Name="Submit"
-                    Clicked="Submit_Clicked"/>
-
+                <Button Text="SUBMIT"
+                        FontSize="Large"
+                        AbsoluteLayout.LayoutBounds=".05, .65, 100, 50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="Submit"
+                        Clicked="Submit_Clicked"/>   
+             </AbsoluteLayout>
             
-        </AbsoluteLayout>
+        </Grid>
+        
     </ContentPage.Content>
 
 </ContentPage>

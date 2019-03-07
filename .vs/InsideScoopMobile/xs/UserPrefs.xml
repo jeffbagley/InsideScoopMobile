@@ -1,9 +1,7 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/TruckSignUp.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/EditTruckProfile.xaml">
     <Files>
-      <File FileName="InsideScoopMobile/LoginPage.xaml" Line="39" Column="63" />
-      <File FileName="InsideScoopMobile/TruckorUser.xaml" Line="17" Column="55" />
-      <File FileName="InsideScoopMobile/TruckSignUp.xaml" Line="72" Column="1" />
+      <File FileName="InsideScoopMobile/EditTruckProfile.xaml" Line="71" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +9,7 @@
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="TruckSignUp.xaml" selected="True" />
+              <Node name="EditTruckProfile.xaml" selected="True" />
             </Node>
             <Node name="InsideScoopMobile.Droid" expanded="True" />
             <Node name="InsideScoopMobile.iOS" expanded="True">

@@ -89,6 +89,12 @@
     <BundleResource Include="Resources\tsutitle.png" />
     <BundleResource Include="Resources\signuptruck2.png" />
     <BundleResource Include="Resources\signuptitle.png" />
+    <BundleResource Include="Resources\gradient.png" />
+    <BundleResource Include="Resources\yourprofile.png" />
+    <BundleResource Include="Resources\editruck.png" />
+    <BundleResource Include="Resources\signupuser.png" />
+    <BundleResource Include="Resources\usersignup.png" />
+    <BundleResource Include="Resources\changep.png" />
   </ItemGroup>
   <ItemGroup>
       <PackageReference Include="Xamarin.Forms" Version="3.6.0.220655" />
