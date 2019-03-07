@@ -11,4 +11,7 @@
         <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
         <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
     </ItemGroup>
+    <ItemGroup>
+      <Compile Remove="ListPage2.cs" />
+    </ItemGroup>
 </Project>

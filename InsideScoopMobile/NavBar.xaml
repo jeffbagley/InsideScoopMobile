@@ -6,8 +6,8 @@
     
     <local:MapPage>
     </local:MapPage>
-    <local:TodoList>
-    </local:TodoList>
+    <local:ListTab>
+    </local:ListTab>
     <local:TruckProfile>
     </local:TruckProfile>
     

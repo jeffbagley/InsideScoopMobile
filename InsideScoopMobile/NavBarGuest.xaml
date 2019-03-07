@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            xmlns:local="clr-namespace:InsideScoopMobile"
+             x:Class="InsideScoopMobile.NavBarGuest">
+    
+    <local:MapPage>
+    </local:MapPage>
+    <local:ListTab>
+    </local:ListTab>
+    <local:TruckorUser>
+    </local:TruckorUser>
+</TabbedPage>

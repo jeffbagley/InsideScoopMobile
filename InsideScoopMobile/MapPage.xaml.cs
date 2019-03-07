@@ -9,8 +9,9 @@ namespace InsideScoopMobile
 {
     public partial class MapPage : ContentPage
     {
-        public MapPage()
+        public MapPage( )
         {
+
             BindingContext = new MainViewModel();
             InitializeComponent();
         }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserProfile">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.UserProfile" Title="User Profile">
     <ContentPage.Content>
         
         <AbsoluteLayout BackgroundColor="White">
@@ -16,8 +16,8 @@
             <Label Text="Email:"
                    TextColor="Black"
                    AbsoluteLayout.LayoutBounds="20,100,150,150"/>
-            <Label Text="Profile name"
-                   AbsoluteLayout.LayoutBounds="135,95,150,30"/>
+            <Label Text="Customer@gmail.com"
+                   AbsoluteLayout.LayoutBounds="150,95,200,40"/>
                    
             
             <Label Text="Favorites:"
@@ -31,8 +31,12 @@
             
             <ListView AbsoluteLayout.LayoutBounds="100, 350, 250, 200"/>
             
+            <Label Text="Allow Push Notifications"
+                       AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Switch AbsoluteLayout.LayoutBounds=".6, .8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
             <Button Text="Change Password"
-                    AbsoluteLayout.LayoutBounds="20, 550"
+                    AbsoluteLayout.LayoutBounds="20, 600"
                     x:Name="Pass"
                     Clicked="Pass_Clicked"/>
 

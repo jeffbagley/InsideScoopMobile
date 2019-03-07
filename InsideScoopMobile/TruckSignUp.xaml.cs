@@ -10,10 +10,11 @@ namespace InsideScoopMobile
         public TruckSignUp()
         {
             InitializeComponent();
-            Dropdown.Items.Add("Candy");
-            Dropdown.Items.Add("Breakfast");
-            Dropdown.Items.Add("Lunch");
-            Dropdown.Items.Add("Dinner");
+            Dropdown.Items.Add("American");
+            Dropdown.Items.Add("Asian");
+            Dropdown.Items.Add("Beverage");
+            Dropdown.Items.Add("Ice Cream");
+            Dropdown.Items.Add("Mexican");
 
         }
 

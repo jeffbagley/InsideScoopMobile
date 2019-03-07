@@ -83,3 +83,8 @@
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TruckSignUp.xaml.g.cs
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/UserSignUp.xaml.g.cs
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/ViewTruck.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/NavBarCustomer.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/NavBarGuest.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/MapPage2.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/NavBar2.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/ListTab2.xaml.g.cs

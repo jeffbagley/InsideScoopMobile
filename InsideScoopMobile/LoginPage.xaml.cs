@@ -20,9 +20,13 @@ namespace InsideScoopMobile
             Console.WriteLine(user);
             Console.WriteLine(password);
 
-            if(string.Compare(user, "Cordell") == 0) {
+            if(string.Compare(user, "Icecream@gmail.com") == 0) {
                 await Navigation.PushAsync(new NavBar());
 
+            }
+            else if (string.Compare(user, "Customer@gmail.com") == 0)
+            {
+                await Navigation.PushAsync(new NavBarCustomer());
             }
         }
 
@@ -31,9 +35,9 @@ namespace InsideScoopMobile
             await Navigation.PushAsync(new TruckorUser());
         }
 
-        void Guest_Clicked(object sender, System.EventArgs e)
+        async void Guest_Clicked(object sender, System.EventArgs e)
         {
-            throw new NotImplementedException();
+            await Navigation.PushAsync(new NavBarGuest());
         }
 
     }

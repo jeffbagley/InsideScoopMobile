@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckProfile" Title="TruckProfile">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckProfile" Title="Truck Profile">
     
     <ContentPage.Content>
         <Grid>
@@ -20,7 +20,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 
-                <Label Text="Name from DB"
+                <Label Text="Ollie's Ice Cream"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
@@ -28,7 +28,7 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .45" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Label Text="Type from DB"
+                <Label Text="Ice Cream"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .45" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
@@ -36,7 +36,7 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Label Text="Email From DB"
+                <Label Text="Icecream@gmail.com"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
@@ -58,7 +58,9 @@
             
                 <Label Text="Share Location?"
                        AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Switch AbsoluteLayout.LayoutBounds=".5, .8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Switch AbsoluteLayout.LayoutBounds=".5, .8" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="location"
+                        Toggled="Location_Toggled"/>
             
                 <Button Text="Change Password"
                         AbsoluteLayout.LayoutBounds="20, 600"
