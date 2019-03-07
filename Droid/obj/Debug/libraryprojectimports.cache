@@ -1,39 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/17/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/18/jl/support-annotations.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/19/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/20/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/24/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/25/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/31/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32/jl/bin/classes.jar</Jar>
-    <Jar>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/33/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/17/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/18/jl/support-annotations.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/19/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/20/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/24/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/25/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/31/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/33/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/48/jl/arch-core-common.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/49/jl/arch-lifecycle-common.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/50/jl/bin/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/53/jl/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/54/jl/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/55/jl/classes.jar</Jar>
+    <Jar>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/56/jl/classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/10/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/11/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/13/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/14/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/10/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/11/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/13/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/14/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/53/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/54/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/55/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/56/jl/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj/Debug/lp/2/jl/assets</ResolvedAssetDirectory>
@@ -47,19 +58,23 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/10.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/11.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/13.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/13.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/14.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/23.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/26.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/27.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/29.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/30.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/32.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/53.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/54.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/55.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/JBagley/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/56.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

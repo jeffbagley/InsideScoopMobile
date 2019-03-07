@@ -1,25 +1,33 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/EditTruckProfile.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/ListTab.xaml">
     <Files>
-      <File FileName="InsideScoopMobile/EditTruckProfile.xaml" Line="26" Column="35" />
-      <File FileName="InsideScoopMobile/EditTruckProfile.xaml.cs" Line="13" Column="31" />
-      <File FileName="InsideScoopMobile/TruckSignUp.xaml.cs" Line="16" Column="42" />
+      <File FileName="../../../Downloads/XamarinMaps-master/XamarinMaps/XamarinMaps/MainPage.xaml" Line="8" Column="109" />
+      <File FileName="InsideScoopMobile/MapPage.xaml.cs" Line="14" Column="50" />
+      <File FileName="../../../Downloads/XamarinMaps-master/XamarinMaps/XamarinMaps/MainPage.xaml.cs" Line="14" Column="41" />
+      <File FileName="InsideScoopMobile/MainViewModel.cs" Line="35" Column="13" />
+      <File FileName="../../../Downloads/XamarinMaps-master/XamarinMaps/XamarinMaps/MainViewModel.cs" Line="23" Column="24" />
+      <File FileName="InsideScoopMobile/ListTab.xaml" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
-              <Node name="EditTruckProfile.xaml" expanded="True" selected="True" />
-              <Node name="TruckSignUp.xaml" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ListTab.xaml" selected="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="MapPage.xaml" expanded="True" />
+              <Node name="NavBar.xaml" expanded="True" />
             </Node>
+            <Node name="InsideScoopMobile.Droid" expanded="True" />
+            <Node name="InsideScoopMobile.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
-  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6B1B5769-1983-4CC5-A834-7A66DDECC42A" />
+  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19255EB3-0418-4361-8FF1-008B4FDA3E54" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

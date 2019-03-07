@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "16026c483ba19577399d0873c06a3813ce06738f"
+    "signature": "33451b96d27a8659a2b5c7e392fff6b1d0fd4c0d"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,10 @@
           "Microsoft.Azure.Mobile.Client": "4.1.1",
           "Microsoft.Azure.Mobile.Client.SQLiteStore": "4.1.1",
           "NETStandard.Library": "2.0.3",
-          "Xamarin.Forms": "3.1.0.637273"
+          "Plugin.Permissions": "3.0.0.12",
+          "Xam.Plugin.Geolocator": "4.5.0.6",
+          "Xamarin.Forms": "3.6.0.220655",
+          "Xamarin.Forms.Maps": "3.6.0.220655"
         },
         "runtime": {
           "InsideScoopMobile.dll": {}
@@ -109,6 +112,14 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.1.19813"
+          }
+        }
+      },
+      "Plugin.Permissions/3.0.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -668,7 +679,15 @@
           }
         }
       },
-      "Xamarin.Forms/3.1.0.637273": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Geolocator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.6.0.220655": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
@@ -679,6 +698,21 @@
             "fileVersion": "1.0.0.0"
           },
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms.Maps/3.6.0.220655": {
+        "dependencies": {
+          "Xamarin.Forms": "3.6.0.220655"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.Design.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.0.0.0"
           }
@@ -740,6 +774,13 @@
       "sha512": "sha512-2okXpTRwUcgQb06put5LwwCjtgoFo74zkPksjcvOpnIjx7TagGW5IoBCAA4luZx1+tfiIhoNqoiI7Y7zwWGyKA==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
+    },
+    "Plugin.Permissions/3.0.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R8Rlzfci1byoPBGOiJfCMzu0HhhN6Q4Vq4YizlF41W946NEmoL/Mb8U5caP5t5KfSbdPQpzdQ9JfM8fxPG8pfw==",
+      "path": "plugin.permissions/3.0.0.12",
+      "hashPath": "plugin.permissions.3.0.0.12.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
@@ -1126,12 +1167,26 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
-    "Xamarin.Forms/3.1.0.637273": {
+    "Xam.Plugin.Geolocator/4.5.0.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-c7PDlf6mImBieMVrc2ZRoaNo29aj2lziHgS91RdIUTPNi/p3DImtNGCdWyTTteoTNBwDZTOlfWjfDnMgrd76qQ==",
-      "path": "xamarin.forms/3.1.0.637273",
-      "hashPath": "xamarin.forms.3.1.0.637273.nupkg.sha512"
+      "sha512": "sha512-rbWNjW7o14EtZa+yjPLujQg+PLVF6M490ooNx9QK/Z6El+uRA2EFut+lT/OAetWFzdPcv9LCs0YGOTvs9e7taQ==",
+      "path": "xam.plugin.geolocator/4.5.0.6",
+      "hashPath": "xam.plugin.geolocator.4.5.0.6.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.6.0.220655": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ltCTV5Tez9zTbg9f6UunegHPWRzfVHKGHeLOmXeJvNFEPwXrHDwjCcRqMqNISLRjzWxT1MuC9wgKdMoxGdBLqQ==",
+      "path": "xamarin.forms/3.6.0.220655",
+      "hashPath": "xamarin.forms.3.6.0.220655.nupkg.sha512"
+    },
+    "Xamarin.Forms.Maps/3.6.0.220655": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U+mCCvyLpC039q34jecG3XJhO7XcoJDrMaD9ggPK9YGATDy4msvYPDe0SN51ifwpok0FGDJkv4lZqA1DzGgOUQ==",
+      "path": "xamarin.forms.maps/3.6.0.220655",
+      "hashPath": "xamarin.forms.maps.3.6.0.220655.nupkg.sha512"
     }
   }
 }

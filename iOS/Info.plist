@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -55,8 +55,13 @@
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Inside Scoop wants to use your location.</string>
 	<key>CFBundleName</key>
 	<string>InsideScoopMobile</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Inside Scoop is using your location.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Needs Calendar Permission</string>
 </dict>
 </plist>
-

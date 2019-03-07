@@ -16,6 +16,11 @@
     <ManifestDocument>obj/Debug/lp/31/jl/AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj/Debug/lp/32/jl/AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj/Debug/lp/33/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/50/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/53/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/54/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/55/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/56/jl/AndroidManifest.xml</ManifestDocument>
   </ManifestDocuments>
   <NativeLibraries />
   <Jars>
@@ -36,5 +41,12 @@
     <Jar>obj/Debug/lp/31/jl/bin/classes.jar</Jar>
     <Jar>obj/Debug/lp/32/jl/bin/classes.jar</Jar>
     <Jar>obj/Debug/lp/33/jl/bin/classes.jar</Jar>
+    <Jar>obj/Debug/lp/48/jl/arch-core-common.jar</Jar>
+    <Jar>obj/Debug/lp/49/jl/arch-lifecycle-common.jar</Jar>
+    <Jar>obj/Debug/lp/50/jl/bin/classes.jar</Jar>
+    <Jar>obj/Debug/lp/53/jl/classes.jar</Jar>
+    <Jar>obj/Debug/lp/54/jl/classes.jar</Jar>
+    <Jar>obj/Debug/lp/55/jl/classes.jar</Jar>
+    <Jar>obj/Debug/lp/56/jl/classes.jar</Jar>
   </Jars>
 </Paths>
