@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.TruckorUser">
     <ContentPage.Content>
-        <AbsoluteLayout>
+        <Grid>
+           <RelativeLayout>
+                <Image Source="test.png"
+                       RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                       RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            </RelativeLayout>
+            <AbsoluteLayout>
+                <Image Source="signuptitle.png"
+                   AbsoluteLayout.LayoutBounds=".5,.1,300,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                
+                <Label Text="Are you a truck or a user?"
+                       FontSize="Large"
+                       TextColor="White"
+                       AbsoluteLayout.LayoutBounds=".5,.28,250,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
-            <Label Text="Are you a truck or a user?"
-                   AbsoluteLayout.LayoutBounds="75, 50, 400, 100"/>
+                  <Button Text="TRUCK"
+                        FontSize="Large"
+                        TextColor="White"
+                        AbsoluteLayout.LayoutBounds=".25,.4,100,50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="Truck"
+                        Clicked="Truck_Clicked"/>
             
             
-            <Button Text="TRUCK"
-                    AbsoluteLayout.LayoutBounds="5, 150, 200, 100"
-                    x:Name="Truck"
-                    Clicked="Truck_Clicked"/>
+                <Button Text="USER"
+                        FontSize="Large"
+                        TextColor="White"
+                        AbsoluteLayout.LayoutBounds=".75,.4,100,50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="User"
+                        Clicked="User_Clicked"/>
             
-            
-            <Button Text="USER"
-                    AbsoluteLayout.LayoutBounds="150, 150, 200, 100"
-                    x:Name="User"
-                    Clicked="User_Clicked"/>
-            
-        </AbsoluteLayout>
+            </AbsoluteLayout> 
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

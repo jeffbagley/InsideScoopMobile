@@ -85,6 +85,10 @@
     <BundleResource Include="Resources\button.png" />
     <BundleResource Include="Resources\test2.png" />
     <BundleResource Include="Resources\title.png" />
+    <BundleResource Include="Resources\signuptruck.png" />
+    <BundleResource Include="Resources\tsutitle.png" />
+    <BundleResource Include="Resources\signuptruck2.png" />
+    <BundleResource Include="Resources\signuptitle.png" />
   </ItemGroup>
   <ItemGroup>
       <PackageReference Include="Xamarin.Forms" Version="3.6.0.220655" />

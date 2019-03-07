@@ -75,3 +75,11 @@
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.dll
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.pdb
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/MapTest.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/ListTab.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/MapTest.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/PasswordChange.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TruckorUser.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TruckSignUp.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/UserSignUp.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/ViewTruck.xaml.g.cs

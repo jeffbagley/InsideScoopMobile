@@ -354,3 +354,11 @@
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobile.iOS.csproj.CopyComplete
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptruck.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/tsutitle.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptruck2.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptitle.png
