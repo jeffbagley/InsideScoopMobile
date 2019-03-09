@@ -20,6 +20,13 @@ namespace InsideScoopMobile
 
         async void Submit_Clicked(object sender, System.EventArgs e)
         {
+            string name = Truck.Text;
+            string numb = Number.Text;
+            int EIN = Convert.ToInt32(numb);
+            string email = Email.Text;
+            string type = Dropdown.Items[Dropdown.SelectedIndex];
+            string password = Pass.Text;
+            string confirmPass = Confirm.Text;
             await Navigation.PushAsync(new NavBar());
         }
     }

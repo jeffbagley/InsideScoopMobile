@@ -7,8 +7,9 @@
             
             <Label Text="Email:"
                    AbsoluteLayout.LayoutBounds="20,100,100,100"/>
-            <Entry Placeholder="Email from DB"
-                   AbsoluteLayout.LayoutBounds="120,95,200,30"/>
+            <Entry Text="Email from DB"
+                   AbsoluteLayout.LayoutBounds="120,95,200,30"
+                   x:Name="mail"/>
             
             <Label Text="Settings:"
                    AbsoluteLayout.LayoutBounds="20,150, 100, 100"/>

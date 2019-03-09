@@ -14,6 +14,7 @@ namespace InsideScoopMobile
 
         async void Submit_Clicked(object sender, System.EventArgs e)
         {
+            string Email = mail.Text;
             await Navigation.PopAsync();
         }
     }

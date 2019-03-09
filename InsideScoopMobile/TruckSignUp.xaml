@@ -20,21 +20,24 @@
             
                 <Entry Placeholder="Truck Name"
                        TextColor="White"
-                       AbsoluteLayout.LayoutBounds="210, 195, 150, 30"/>
+                       AbsoluteLayout.LayoutBounds="210, 195, 150, 30"
+                       x:Name="Truck"/>
                     
                 <Label Text="Food EIN Number:"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 250, 200, 100"/>
             
                 <Entry Placeholder="EIN"
-                       AbsoluteLayout.LayoutBounds="210, 245, 150, 30"/>           
+                       AbsoluteLayout.LayoutBounds="210, 245, 150, 30"
+                       x:Name="Number"/>           
             
                 <Label Text="Email:"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
             
                 <Entry Placeholder="Email"
-                       AbsoluteLayout.LayoutBounds="210, 295, 150, 30"/>
+                       AbsoluteLayout.LayoutBounds="210, 295, 150, 30"
+                       x:Name="Email"/>
             
                 <Label Text="Food Type:"
                        TextColor="White"
@@ -49,14 +52,16 @@
                        AbsoluteLayout.LayoutBounds="20, 400, 100, 100"/>
             
                 <Entry Placeholder="Password"
-                       AbsoluteLayout.LayoutBounds="210, 395, 150, 30"/>
+                       AbsoluteLayout.LayoutBounds="210, 395, 150, 30"
+                       x:Name="Pass"/>
             
                 <Label Text="Confirm Password:"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 450, 200, 100"/>
             
                 <Entry Placeholder="Confirm"
-                       AbsoluteLayout.LayoutBounds="210, 445, 150, 30"/>
+                       AbsoluteLayout.LayoutBounds="210, 445, 150, 30"
+                       x:Name="Confirm"/>
                      
                 <Button Text="SUBMIT"
                         FontSize="Large"

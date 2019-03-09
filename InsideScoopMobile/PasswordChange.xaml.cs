@@ -14,6 +14,11 @@ namespace InsideScoopMobile
 
         async void Submit_Clicked(object sender, System.EventArgs e)
         {
+            string oldPass = Old.Text;
+            string newPass = New.Text;
+            string confirmPass = Confirm.Text;
+
+
             await Navigation.PopAsync();
         }
     }

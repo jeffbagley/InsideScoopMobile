@@ -1,29 +1,23 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/UserProfile.xaml.cs">
-    <Files>
-      <File FileName="InsideScoopMobile/UserProfile.xaml" Line="39" Column="61" />
-      <File FileName="InsideScoopMobile/LoginPage.xaml" Line="24" Column="38" />
-      <File FileName="InsideScoopMobile/UserProfile.xaml.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="UserProfile.xaml.cs" selected="True" />
+              <Node name="EditUserProfile.xaml" expanded="True" selected="True" />
+              <Node name="PasswordChange.xaml" expanded="True" />
+              <Node name="TruckSignUp.xaml" expanded="True" />
             </Node>
-            <Node name="InsideScoopMobile.Droid" expanded="True" />
-            <Node name="InsideScoopMobile.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
+            <Node name="InsideScoopMobile.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
-  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50EFBA9E-9A21-431B-836F-66FBD7D919ED" />
+  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6B1B5769-1983-4CC5-A834-7A66DDECC42A" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -22,7 +22,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
                 
-                <Entry Placeholder="Ollie's Ice Cream"
+                <Entry Text="Ollie's Ice Cream"
                        AbsoluteLayout.LayoutBounds="150, 195, 150, 30"
                        x:Name="Name"/>
             
@@ -40,7 +40,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
                 
-                <Entry Placeholder="Icecream@gmail.com"
+                <Entry Text="Icecream@gmail.com"
                        AbsoluteLayout.LayoutBounds="150, 295, 150, 30"
                        x:Name="Email"/>
             

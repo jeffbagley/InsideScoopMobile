@@ -18,7 +18,8 @@
                        AbsoluteLayout.LayoutBounds=".01, .3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
                 <Entry Placeholder="Email"
-                       AbsoluteLayout.LayoutBounds=".75, .3,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                       AbsoluteLayout.LayoutBounds=".75, .3,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
+                       x:Name="Email"/>
             
             
                 <Label Text="Password:"
@@ -27,7 +28,8 @@
                        AbsoluteLayout.LayoutBounds=".01, .35" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
                 <Entry Placeholder="Password"
-                       AbsoluteLayout.LayoutBounds=".75, .35,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                       AbsoluteLayout.LayoutBounds=".75, .35,150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
+                       x:Name="Pass"/>
             
             
                 <Label Text="Confirm Password:"
@@ -36,7 +38,8 @@
                        AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
                 <Entry Placeholder="Confirm"
-                       AbsoluteLayout.LayoutBounds=".75, .4, 150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                       AbsoluteLayout.LayoutBounds=".75, .4, 150, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
+                       x:Name="Confirm"/>
             
                 <Button Text="SUBMIT"
                         FontSize="Large"

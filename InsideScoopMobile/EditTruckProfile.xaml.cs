@@ -22,7 +22,10 @@ namespace InsideScoopMobile
 
             string email = Email.Text;
 
+            string type = Dropdown.Items[Dropdown.SelectedIndex];
+            Console.WriteLine(type);
             await Navigation.PopAsync();
+
 
         
         
