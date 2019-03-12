@@ -1,14 +1,21 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/TruckSignUp.xaml.cs">
+    <Files>
+      <File FileName="InsideScoopMobile/UserSignUp.xaml" Line="58" Column="1" />
+      <File FileName="InsideScoopMobile/UserSignUp.xaml.cs" Line="3" Column="1" />
+      <File FileName="InsideScoopMobile/TruckSignUp.xaml.cs" Line="27" Column="13" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="EditUserProfile.xaml" expanded="True" selected="True" />
               <Node name="PasswordChange.xaml" expanded="True" />
-              <Node name="TruckSignUp.xaml" expanded="True" />
+              <Node name="TruckSignUp.xaml" expanded="True">
+                <Node name="TruckSignUp.xaml.cs" selected="True" />
+              </Node>
+              <Node name="UserSignUp.xaml" expanded="True" />
             </Node>
             <Node name="InsideScoopMobile.iOS" expanded="True" />
           </Node>
