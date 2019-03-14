@@ -43,7 +43,7 @@ namespace InsideScoopMobile
             PinCollection2.Add(new Pin() { Position = position2, Type = PinType.Generic, Label = "Taco Truck" });
             PinCollection2.Add(new Pin() { Position = position3, Type = PinType.Generic, Label = "Noodle Wagon" });
             PinCollection2.Add(new Pin() { Position = position4, Type = PinType.Generic, Label = "Ice Cream 4Ever" });
-            PinCollection2.Add(new Pin() { Position = position5, Type = PinType.Generic, Label = "Ollie's Ice Cream" });
+            PinCollection2.Add(new Pin() { Position = position5, Type = PinType.Generic, Label = "Morning Coffee" });
 
         }
 

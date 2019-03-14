@@ -5,7 +5,7 @@
                 <TableRoot>
                     <TableSection Title="List View">
                         
-                        <ImageCell ImageSource="" Text="Ollie's Ice Cream" Detail="Ice Cream"></ImageCell>
+                        <ImageCell ImageSource="" Text="Morning Coffee" Detail="Beverage" Tapped="Handle_Tapped" ></ImageCell>
                         <ImageCell ImageSource="" Text="Taco Truck" Detail="Mexican"></ImageCell>    
                         <ImageCell ImageSource="" Text="Noodle Wagon" Detail="Asian"></ImageCell>
                         <ImageCell ImageSource="" Text="Ice Cream 4Ever" Detail="Ice Cream"></ImageCell>

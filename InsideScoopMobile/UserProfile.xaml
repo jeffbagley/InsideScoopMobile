@@ -21,22 +21,23 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01,.3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Label Text="Customer@gmail.com"
+                <Label Text="Foodeater@gmail.com"
                        AbsoluteLayout.LayoutBounds=".5,.3" AbsoluteLayout.LayoutFlags="PositionProportional"/>
           
             
-                <Label Text="Places You've Eaten:"
+                <Label Text="Favorites:"
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-            
-                <ListView AbsoluteLayout.LayoutBounds=".5, .65, 250, 200" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Label Text="Morning Coffee"
+                       AbsoluteLayout.LayoutBounds=".01,.5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                
             
                 <Label Text="Allow Push Notifications"
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01 ,.85" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Switch AbsoluteLayout.LayoutBounds=".6, .85" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Switch AbsoluteLayout.LayoutBounds=".7, .85" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
                 <Button Text="Change Password"
                         AbsoluteLayout.LayoutBounds=".01, .95" AbsoluteLayout.LayoutFlags="PositionProportional"

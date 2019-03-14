@@ -28,6 +28,10 @@ namespace InsideScoopMobile
             {
                 await Navigation.PushAsync(new NavBarCustomer());
             }
+            else if (string.Compare(user, "MC@gmail.com") == 0 && string.Compare(password, "Password2") ==0)
+            {
+                await Navigation.PushAsync(new NavBar());
+            }
         }
 
         async void SignUp_Clicked(object sender, System.EventArgs e)

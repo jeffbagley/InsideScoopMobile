@@ -20,7 +20,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 
-                <Label Text="Ollie's Ice Cream"
+                <Label Text="Morning Coffee"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
@@ -28,7 +28,7 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .45" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Label Text="Ice Cream"
+                <Label Text="Beverage"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .45" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
@@ -36,7 +36,7 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Label Text="Icecream@gmail.com"
+                <Label Text="MC@gmail.com"
                        FontSize="Large"
                        AbsoluteLayout.LayoutBounds=".75, .5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             

@@ -4163,23 +4163,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Cordell/.nuget/packages/": {},
+    "/Users/JBagley/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
+      "projectUniqueName": "/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
       "projectName": "InsideScoopMobile",
-      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
-      "packagesPath": "/Users/Cordell/.nuget/packages/",
-      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/",
+      "projectPath": "/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj",
+      "packagesPath": "/Users/JBagley/.nuget/packages/",
+      "outputPath": "/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Cordell/.config/NuGet/NuGet.Config"
+        "/Users/JBagley/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

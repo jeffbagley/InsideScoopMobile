@@ -19,7 +19,6 @@
                        AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
             
                 <Entry Placeholder="Truck Name"
-                       TextColor="White"
                        AbsoluteLayout.LayoutBounds="210, 195, 150, 30"
                        x:Name="Truck"/>
                     
@@ -52,6 +51,7 @@
                        AbsoluteLayout.LayoutBounds="20, 400, 100, 100"/>
             
                 <Entry Placeholder="Password"
+                       IsPassword = "true"
                        AbsoluteLayout.LayoutBounds="210, 395, 150, 30"
                        x:Name="Pass"/>
             
@@ -60,6 +60,7 @@
                        AbsoluteLayout.LayoutBounds="20, 450, 200, 100"/>
             
                 <Entry Placeholder="Confirm"
+                       IsPassword = "true"
                        AbsoluteLayout.LayoutBounds="210, 445, 150, 30"
                        x:Name="Confirm"/>
                      

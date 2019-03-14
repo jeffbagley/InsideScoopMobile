@@ -46,7 +46,7 @@ namespace InsideScoopMobile
             }
             else 
             {
-                await Navigation.PushAsync(new NavBar());
+                await Navigation.PushAsync(new NavBarCustomer());
             }
 
 

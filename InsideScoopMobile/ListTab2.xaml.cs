@@ -11,5 +11,11 @@ namespace InsideScoopMobile
         {
             InitializeComponent();
         }
+
+        async void Handle_Tapped(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new ViewTruck());
+        }
+
     }
 }

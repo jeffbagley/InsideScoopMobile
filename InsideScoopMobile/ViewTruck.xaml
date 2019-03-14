@@ -2,12 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.ViewTruck">
     <ContentPage.Content>
         <AbsoluteLayout>
-            <Entry Placeholder="Truck Name"
+            <Label Text="Morning Coffee"
                    AbsoluteLayout.LayoutBounds="90, 50, 200, 30"/>
             
             <Label Text="Food Type:"
                    AbsoluteLayout.LayoutBounds="20, 250, 150, 100"/>
-            <Entry Placeholder="Food"
+            <Label Text="Beverage"
                    AbsoluteLayout.LayoutBounds="150, 245, 200, 30"/>
             
             <Label Text="Rating:"
@@ -15,11 +15,17 @@
             
             <Label Text="Contact Info:"
                    AbsoluteLayout.LayoutBounds="20, 350, 150, 100"/>
-            <Entry Placeholder="Email"
+            <Label Text="MC@gmail.com"
                    AbsoluteLayout.LayoutBounds="150, 345, 200, 30"/>
             
             <Label Text="Menu:"
                    AbsoluteLayout.LayoutBounds="20, 400, 150, 100"/>
+            
+            <Label Text="Favorite: "
+                       AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Switch AbsoluteLayout.LayoutBounds=".5, .8" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        x:Name="favorite"/>
+                        
             
             
             
