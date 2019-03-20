@@ -98,3 +98,4 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.dll
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.pdb
+/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.csprojAssemblyReference.cache

@@ -3,7 +3,7 @@
     <ContentPage.Content>
         <AbsoluteLayout>
             <Label Text="Morning Coffee"
-                   AbsoluteLayout.LayoutBounds="90, 50, 200, 30"/>
+                   AbsoluteLayout.LayoutBounds=".5, .08" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
             <Label Text="Food Type:"
                    AbsoluteLayout.LayoutBounds="20, 250, 150, 100"/>
@@ -14,19 +14,22 @@
                    AbsoluteLayout.LayoutBounds="20, 300, 100, 100"/>
             
             <Label Text="Contact Info:"
-                   AbsoluteLayout.LayoutBounds="20, 350, 150, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 400, 150, 100"/>
             <Label Text="MC@gmail.com"
-                   AbsoluteLayout.LayoutBounds="150, 345, 200, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 395, 200, 30"/>
             
             <Label Text="Menu:"
-                   AbsoluteLayout.LayoutBounds="20, 400, 150, 100"/>
+                   AbsoluteLayout.LayoutBounds="20, 450, 150, 100"/>
             
             <Label Text="Favorite: "
-                       AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Switch AbsoluteLayout.LayoutBounds=".5, .8" AbsoluteLayout.LayoutFlags="PositionProportional"
-                        x:Name="favorite"/>
-                        
+                       AbsoluteLayout.LayoutBounds="20 ,500, 150, 100" />
             
+            <Switch AbsoluteLayout.LayoutBounds="150, 495"
+                        x:Name="favorite"/>
+            
+            <Button Text="Create Buzz"
+                    AbsoluteLayout.LayoutBounds="20, 550, 200, 100"/>
+
             
             
         </AbsoluteLayout>

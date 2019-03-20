@@ -1,17 +1,23 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="InsideScoopMobile/EditUserProfile.xaml" Line="43" Column="1" />
+      <File FileName="InsideScoopMobile/ViewTruck.xaml" Line="32" Column="1" />
+      <File FileName="InsideScoopMobile/TruckSignUp.xaml" Line="74" Column="33" />
+      <File FileName="InsideScoopMobile/TruckSignUp.xaml.cs" Line="37" Column="17" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
             <Node name="InsideScoopMobile" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="EditUserProfile.xaml" selected="True" />
-              <Node name="TruckorUser.xaml" expanded="True" />
             </Node>
             <Node name="InsideScoopMobile.Droid" expanded="True" />
             <Node name="InsideScoopMobile.iOS" expanded="True">
               <Node name="Resources" expanded="True" />
+              <Node name="Main.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +25,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
-  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50EFBA9E-9A21-431B-836F-66FBD7D919ED" />
+  <MonoDevelop.Ide.ItemProperties.InsideScoopMobile.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6B1B5769-1983-4CC5-A834-7A66DDECC42A" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

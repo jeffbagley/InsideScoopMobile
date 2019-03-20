@@ -66,9 +66,15 @@
                      
                 <Button Text="SUBMIT"
                         FontSize="Large"
-                        AbsoluteLayout.LayoutBounds=".5,.65,100,50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        AbsoluteLayout.LayoutBounds=".75,.65,100,50" AbsoluteLayout.LayoutFlags="PositionProportional"
                         x:Name="Submit"
                         Clicked="Submit_Clicked"/>
+                
+                
+                <Label Text = ""
+                       x:Name="Errors"
+                       AbsoluteLayout.LayoutBounds="20, 500, 200, 100"
+                       TextColor = "Red"/>
             
             </AbsoluteLayout>
         </Grid>
