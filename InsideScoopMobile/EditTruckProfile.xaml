@@ -3,7 +3,7 @@
     <ContentPage.Content>
         <Grid>
             <RelativeLayout>
-            <Image Source="editruck.png"
+            <Image Source="EditTruckGTG.png"
                     RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                     RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
         </RelativeLayout>
@@ -14,7 +14,7 @@
                         FontSize="12"
                         AbsoluteLayout.LayoutBounds="20, 90, 100, 100"/>
                     
-                <Image BackgroundColor="Fuchsia"
+                <Image Source="purptruck.png"
                        AbsoluteLayout.LayoutBounds="150, 90, 100, 100"/>
              
                 <Label Text="Business Name:"
@@ -49,7 +49,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 350, 50, 50"/>
                 
-                <Image BackgroundColor="Silver"
+                <Image Source="HungryGuy.png"
                        AbsoluteLayout.LayoutBounds="100, 350, 200, 150"/>
                 
                 <Button Text="Upload Menu"

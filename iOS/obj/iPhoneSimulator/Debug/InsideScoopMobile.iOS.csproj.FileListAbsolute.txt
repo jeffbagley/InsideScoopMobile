@@ -168,9 +168,7 @@
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobile.iOS.csproj.CopyComplete
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobileiOS.exe
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobileiOS.pdb
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/test.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/button.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/test2.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/title.png
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
 /Users/JBagley/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
@@ -269,13 +267,9 @@
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptruck.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/tsutitle.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptruck2.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signuptitle.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/gradient.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/yourprofile.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/editruck.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/signupuser.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/usersignup.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/changep.png
@@ -392,3 +386,11 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobile.iOS.csproj.CopyComplete
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobileiOS.exe
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobileiOS.pdb
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/EditTruckGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/GradientGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/SignUpTruckGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/SignUpUserGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/TruckorUserGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/MainScreenGTG.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/purptruck.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/HungryGuy.png

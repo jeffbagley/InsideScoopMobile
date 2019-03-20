@@ -4,7 +4,7 @@
     <ContentPage.Content>
         <Grid>
             <RelativeLayout>
-                <Image Source="gradient.png"
+                <Image Source="GradientGTG.png"
                        RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                        RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
             </RelativeLayout>
@@ -12,7 +12,7 @@
                 <Image Source="yourprofile.png"
                    AbsoluteLayout.LayoutBounds=".5,.01,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
           
-                <Image BackgroundColor="Fuchsia"
+                <Image Source="purptruck"
                        AbsoluteLayout.LayoutBounds=".5, .2, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
              
                 <Label Text="Business Name:"
@@ -44,7 +44,7 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .6" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Image BackgroundColor="Silver"
+                <Image Source="HungryGuy.png"
                        AbsoluteLayout.LayoutBounds=".5, .7, 200, 150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             
                 <Button Text="Edit Profile"

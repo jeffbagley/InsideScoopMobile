@@ -3,12 +3,12 @@
     <ContentPage.Content>
         <Grid>
             <RelativeLayout>
-                <Image Source="gradient.png"
+                <Image Source="GradientGTG.png"
                        RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                        RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
             </RelativeLayout>
         <AbsoluteLayout>
-                <Image Source="title.png"
+                <Image Source="yourprofile.png"
                        AbsoluteLayout.LayoutBounds=".5,.01,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
           
             

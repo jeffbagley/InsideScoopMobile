@@ -3,7 +3,7 @@
     <ContentPage.Content>
         <Grid>
            <RelativeLayout>
-                <Image Source="test.png"
+                <Image Source="TruckorUserGTG.png"
                        RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                        RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
             </RelativeLayout>

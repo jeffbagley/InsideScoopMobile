@@ -4,7 +4,7 @@
         <Grid>
             <RelativeLayout>
                 
-            <Image Source="signuptruck2.png"
+            <Image Source="SignUpTruckGTG.png"
                     RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                     RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
             </RelativeLayout>

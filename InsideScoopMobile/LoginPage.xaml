@@ -5,7 +5,7 @@
              x:Class="InsideScoopMobile.LoginPage">  
     <Grid>
         <RelativeLayout>
-            <Image Source="test2.png"
+            <Image Source="MainScreenGTG.png"
                     RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                     RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
         </RelativeLayout>
