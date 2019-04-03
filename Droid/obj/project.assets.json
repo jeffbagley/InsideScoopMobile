@@ -185,6 +185,46 @@
           "lib/MonoAndroid/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
+      "Syncfusion.Licensing/17.1.0.38": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.Core/17.1.0.38": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "17.1.0.38"
+        },
+        "compile": {
+          "lib/MonoAndroid10/Syncfusion.Core.XForms.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.Core.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Syncfusion.Core.XForms.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.Core.XForms.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfRating/17.1.0.38": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.1.0.38",
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "compile": {
+          "lib/MonoAndroid10/Syncfusion.SfRating.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.SfRating.XForms.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.SfRating.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Syncfusion.SfRating.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.SfRating.XForms.Android.dll": {},
+          "lib/MonoAndroid10/Syncfusion.SfRating.XForms.dll": {}
+        }
+      },
       "Validation/2.2.8": {
         "type": "package",
         "compile": {
@@ -657,6 +697,7 @@
           "Microsoft.Azure.Mobile.Client": "4.1.1",
           "Microsoft.Azure.Mobile.Client.SQLiteStore": "4.1.1",
           "Plugin.Permissions": "3.0.0.12",
+          "Syncfusion.Xamarin.SfRating": "17.1.0.38",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xamarin.Forms": "3.6.0.220655",
           "Xamarin.Forms.Maps": "3.6.0.220655"
@@ -947,6 +988,107 @@
         "lib/MonoAndroid/SQLitePCLRaw.provider.e_sqlite3.dll",
         "sqlitepclraw.provider.e_sqlite3.android.1.1.2.nupkg.sha512",
         "sqlitepclraw.provider.e_sqlite3.android.nuspec"
+      ]
+    },
+    "Syncfusion.Licensing/17.1.0.38": {
+      "sha512": "QReB2C8lTQDutmfzyuImqZwkUYXuLul4+KoBT0Oqg8bun3KXm3CGX7Efeusd0avshH4FL16sCmfzgiJi3OCD3w==",
+      "type": "package",
+      "path": "syncfusion.licensing/17.1.0.38",
+      "files": [
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net20/Syncfusion.Licensing.dll",
+        "lib/net35/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/netcoreapp3.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.2/Syncfusion.Licensing.dll",
+        "lib/netstandard1.4/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.17.1.0.38.nupkg.sha512",
+        "syncfusion.licensing.nuspec"
+      ]
+    },
+    "Syncfusion.Xamarin.Core/17.1.0.38": {
+      "sha512": "F0qkvikeJZWZfyfjbsIJ6dv+hJexXWX+hEtyQeBT/tczZJvUOHvwzqjVGGda6qJSRoSkSeMLjs1z8gTh/B0w9w==",
+      "type": "package",
+      "path": "syncfusion.xamarin.core/17.1.0.38",
+      "files": [
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.Core.XForms.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.Core.XForms.dll",
+        "lib/MonoAndroid10/Syncfusion.Core.XForms.xml",
+        "lib/Xamarin.Mac/Syncfusion.Core.XForms.dll",
+        "lib/Xamarin.Mac/Syncfusion.Core.XForms.macOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.xml",
+        "lib/netstandard1.0/Syncfusion.Core.XForms.dll",
+        "lib/netstandard1.0/Syncfusion.Core.XForms.xml",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Core.XForms.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Core.XForms.xml",
+        "lib/uap10.0/Syncfusion.Core.XForms.UWP.dll",
+        "lib/uap10.0/Syncfusion.Core.XForms.UWP.pri",
+        "lib/uap10.0/Syncfusion.Core.XForms.UWP/Syncfusion.Core.XForms.UWP.xr.xml",
+        "lib/uap10.0/Syncfusion.Core.XForms.UWP/ToggleIcons/ToggleCollapsedIcon.xaml",
+        "lib/uap10.0/Syncfusion.Core.XForms.UWP/ToggleIcons/ToggleVisibleIcon.xaml",
+        "lib/uap10.0/Syncfusion.Core.XForms.dll",
+        "lib/uap10.0/Syncfusion.Core.XForms.xml",
+        "syncfusion.xamarin.core.17.1.0.38.nupkg.sha512",
+        "syncfusion.xamarin.core.nuspec"
+      ]
+    },
+    "Syncfusion.Xamarin.SfRating/17.1.0.38": {
+      "sha512": "iTKpTDVTiK9zIaVZwgUB5musIdRpU+6LFN1I/2Hf9xVSSwDUllX8WlziAI4Ak0scBQynIo3YCdoQWBbF+81yCg==",
+      "type": "package",
+      "path": "syncfusion.xamarin.sfrating/17.1.0.38",
+      "files": [
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.SfRating.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfRating.XForms.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfRating.XForms.XML",
+        "lib/MonoAndroid10/Syncfusion.SfRating.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfRating.XForms.XML",
+        "lib/Xamarin.iOS10/Syncfusion.SfRating.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfRating.XForms.iOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfRating.iOS.dll",
+        "lib/netstandard1.0/Syncfusion.SfRating.XForms.XML",
+        "lib/netstandard1.0/Syncfusion.SfRating.XForms.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfRating.XForms.XML",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfRating.XForms.dll",
+        "lib/uap10.0/Syncfusion.SfInput.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfInput.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfInput.UWP.pri",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/DeviceFamily-Mobile/Themes/InputStyles.xaml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/DeviceFamily-Mobile/Themes/InputStyles.xbf",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Properties/Syncfusion.SfInput.UWP.rd.xml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Syncfusion.SfInput.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Syncfusion.SfInput.UWP.xr.xml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Syncfusion.SfShared.UWP.xml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Themes/InputStyles.xaml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Themes/InputStyles.xbf",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Themes/generic.xaml",
+        "lib/uap10.0/Syncfusion.SfInput.UWP/Themes/generic.xbf",
+        "lib/uap10.0/Syncfusion.SfRating.XForms.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfRating.XForms.XML",
+        "lib/uap10.0/Syncfusion.SfRating.XForms.dll",
+        "lib/uap10.0/Syncfusion.SfShared.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfShared.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfShared.UWP.pri",
+        "lib/uap10.0/Syncfusion.SfShared.UWP/Properties/Syncfusion.SfShared.UWP.rd.xml",
+        "lib/uap10.0/Syncfusion.SfShared.UWP/Syncfusion.SfShared.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfShared.UWP/Syncfusion.SfShared.UWP.xr.xml",
+        "lib/uap10.0/Syncfusion.SfShared.UWP/Themes/generic.xaml",
+        "lib/uap10.0/Syncfusion.SfShared.UWP/Themes/generic.xbf",
+        "syncfusion.xamarin.sfrating.17.1.0.38.nupkg.sha512",
+        "syncfusion.xamarin.sfrating.nuspec"
       ]
     },
     "Validation/2.2.8": {
@@ -1527,20 +1669,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Courtney/.nuget/packages/": {}
+    "/Users/Cordell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
+      "projectUniqueName": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
       "projectName": "InsideScoopMobile.Droid",
-      "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
-      "packagesPath": "/Users/Courtney/.nuget/packages/",
-      "outputPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/",
+      "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/InsideScoopMobile.Droid.csproj",
+      "packagesPath": "/Users/Cordell/.nuget/packages/",
+      "outputPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/Droid/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Courtney/.config/NuGet/NuGet.Config"
+        "/Users/Cordell/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -1551,8 +1693,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
-              "projectPath": "/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
+            "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj": {
+              "projectPath": "/Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/InsideScoopMobile.csproj"
             }
           }
         }

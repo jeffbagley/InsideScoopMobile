@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.ListTab2" Title="List View">
     <ContentPage.Content>
-        <TableView Intent="Data">
+        
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Padding="10">
+                <Label Text="Sort By:" 
+                    VerticalOptions="Center"/>
+                <Picker x:Name="Dropdown"
+                        Title="Nearest"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <TableView Intent="Data">
+                    <TableRoot>
+                        <TableSection Title="List View">
+                            
+                            
+                            <ImageCell ImageSource="" Text="Morning Coffee" Detail="Beverage" Tapped="Handle_Tapped" ></ImageCell>
+                            <ImageCell ImageSource="" Text="Taco Truck" Detail="Mexican" Tapped="Handle_Taco"></ImageCell>    
+                            <ImageCell ImageSource="" Text="Noodle Wagon" Detail="Asian"></ImageCell>
+                            <ImageCell ImageSource="" Text="Ice Cream 4Ever" Detail="Ice Cream"></ImageCell>
+                            
+                            
+                        </TableSection>
+                    </TableRoot>
+                </TableView>
+         </StackLayout>
+        
+        
+        
+        
+        
+        
+        
+        <!--<TableView Intent="Data">
                 <TableRoot>
                     <TableSection Title="List View">
                         
                         <ImageCell ImageSource="" Text="Morning Coffee" Detail="Beverage" Tapped="Handle_Tapped" ></ImageCell>
-                        <ImageCell ImageSource="" Text="Taco Truck" Detail="Mexican"></ImageCell>    
+                        <ImageCell ImageSource="" Text="Taco Truck" Detail="Mexican" Tapped="Handle_Taco"></ImageCell>    
                         <ImageCell ImageSource="" Text="Noodle Wagon" Detail="Asian"></ImageCell>
                         <ImageCell ImageSource="" Text="Ice Cream 4Ever" Detail="Ice Cream"></ImageCell>
                         
                         
                     </TableSection>
                 </TableRoot>
-            </TableView>
+            </TableView>-->
     </ContentPage.Content>
 </ContentPage>

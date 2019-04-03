@@ -20,7 +20,7 @@ namespace InsideScoopMobile
         private ObservableCollection<Pin> _pinCollection = new ObservableCollection<Pin>();
         public ObservableCollection<Pin> PinCollection { get { return _pinCollection; } set { _pinCollection = value; OnPropertyChanged(); } }
 
-        private Position _myPosition = new Position(46.872131, -113.994019);
+        private Position _myPosition = new Position(46.861787, -113.985177);
         public Position MyPosition { get { return _myPosition; } set { _myPosition = value; OnPropertyChanged(); } }
 
         public Position position2 = new Position(46.855242, -113.993256);

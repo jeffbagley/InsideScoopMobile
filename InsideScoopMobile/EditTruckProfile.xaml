@@ -22,7 +22,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 200, 150, 100"/>
                 
-                <Entry Text="Ollie's Ice Cream"
+                <Entry Text="Morning Coffee"
                        AbsoluteLayout.LayoutBounds="150, 195, 150, 30"
                        x:Name="Name"/>
             
@@ -31,7 +31,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 250, 100, 100"/>
                 
-                <Picker Title="Ice Cream"
+                <Picker Title="Beverage"
                         AbsoluteLayout.LayoutBounds="150, 245, 150, 30"
                         x:Name="Dropdown"/>
             
@@ -40,7 +40,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds="20, 300, 200, 100"/>
                 
-                <Entry Text="Icecream@gmail.com"
+                <Entry Text="MC@gmail.com"
                        AbsoluteLayout.LayoutBounds="150, 295, 150, 30"
                        x:Name="Email"/>
             
