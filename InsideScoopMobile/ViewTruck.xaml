@@ -1,37 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InsideScoopMobile.ViewTruck">
     <ContentPage.Content>
+        <Grid>
+            <RelativeLayout>
+                <Image Source="GradientGTG.png"
+                       RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                       RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            </RelativeLayout>
         <AbsoluteLayout>
             <Label Text="Morning Coffee"
+                   FontSize="48"
+                   TextColor="#E1004C"
+                   FontAttributes="Bold"
                    AbsoluteLayout.LayoutBounds=".5, .08" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-            
+                
+            <Image Source="MClogo.png"
+                   AbsoluteLayout.LayoutBounds=".5, .2, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                
             <Label Text="Food Type:"
-                   AbsoluteLayout.LayoutBounds="20, 250, 150, 100"/>
+                   TextColor="White"
+                   AbsoluteLayout.LayoutBounds="20, 300, 150, 100"/>
+                
             <Label Text="Beverage"
-                   AbsoluteLayout.LayoutBounds="150, 245, 200, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 300, 200, 30"/>
             
             <Label Text="Rating:"
-                   AbsoluteLayout.LayoutBounds="20, 300, 100, 100"/>
+                   TextColor="White"
+                   AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
             
             <Label Text="Contact Info:"
+                   TextColor="White"
                    AbsoluteLayout.LayoutBounds="20, 400, 150, 100"/>
+                
             <Label Text="MC@gmail.com"
-                   AbsoluteLayout.LayoutBounds="150, 395, 200, 30"/>
+                   AbsoluteLayout.LayoutBounds="150, 400, 200, 30"/>
             
             <Label Text="Menu:"
+                   TextColor="White"
                    AbsoluteLayout.LayoutBounds="20, 450, 150, 100"/>
             
+            <Image Source="MenuLogo.png"
+                   AbsoluteLayout.LayoutBounds="150, 450, 100, 100"/>
+                
             <Label Text="Favorite: "
-                       AbsoluteLayout.LayoutBounds="20 ,500, 150, 100" />
+                   TextColor="White"
+                   AbsoluteLayout.LayoutBounds="20 ,600, 150, 100" />
             
-            <Switch AbsoluteLayout.LayoutBounds="150, 495"
-                        x:Name="favorite"/>
+            <Switch AbsoluteLayout.LayoutBounds="150, 595"
+                    x:Name="favorite"/>
             
             <Button Text="Create Buzz"
-                    AbsoluteLayout.LayoutBounds="20, 550, 200, 100"/>
+                    FontSize="Medium"
+                    AbsoluteLayout.LayoutBounds="20, 650, 350, 100"/>
+                
+            <Button Text="Instagram"
+                    AbsoluteLayout.LayoutBounds="20, 675, 150, 100"/>
+                
+            <Button Text="FaceBook"
+                    AbsoluteLayout.LayoutBounds="20, 675, 350, 100"/>
+            
+            <Button Text="Twitter"
+                    AbsoluteLayout.LayoutBounds="20, 675, 550, 100"/>
 
             
             
         </AbsoluteLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

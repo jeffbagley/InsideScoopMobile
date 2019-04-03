@@ -30,7 +30,7 @@
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 <Label Text="Morning Coffee"
-                       AbsoluteLayout.LayoutBounds=".01,.5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                       AbsoluteLayout.LayoutBounds=".5,.4" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 
             
                 <Label Text="Allow Push Notifications"

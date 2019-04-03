@@ -13,8 +13,15 @@
                    AbsoluteLayout.LayoutBounds=".5,.01,400,150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
           
                 <Image Source="purptruck"
-                       AbsoluteLayout.LayoutBounds=".5, .2, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                       AbsoluteLayout.LayoutBounds=".5, .2, 200, 200" AbsoluteLayout.LayoutFlags="PositionProportional"/>
              
+                <Button Text="Edit Profile"
+                        VerticalOptions="End"
+                        AbsoluteLayout.LayoutBounds=".5, .18, 175, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
+                        BorderColor="Teal"
+                        x:Name="Edit"
+                        Clicked="Edit_Clicked"/>
+                
                 <Label Text="Business Name:"
                        FontSize="Large"
                        TextColor="White"
@@ -44,18 +51,9 @@
                        FontSize="Large"
                        TextColor="White"
                        AbsoluteLayout.LayoutBounds=".01, .6" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-                <Image Source="HungryGuy.png"
+                <Image Source="MenuLogo.png"
                        AbsoluteLayout.LayoutBounds=".5, .7, 200, 150" AbsoluteLayout.LayoutFlags="PositionProportional"/>
-            
-                <Button Text="Edit Profile"
-                        VerticalOptions="End"
-                        AbsoluteLayout.LayoutBounds=".9, .19, 175, 30" AbsoluteLayout.LayoutFlags="PositionProportional"
-                        BorderColor="Teal"
-                        x:Name="Edit"
-                        Clicked="Edit_Clicked"/>
-                    
-            
-            
+                
                 <Label Text="Share Location?"
                        AbsoluteLayout.LayoutBounds=".01 ,.8" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 <Switch AbsoluteLayout.LayoutBounds=".5, .8" AbsoluteLayout.LayoutFlags="PositionProportional"

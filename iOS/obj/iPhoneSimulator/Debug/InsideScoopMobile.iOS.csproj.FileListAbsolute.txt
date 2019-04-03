@@ -151,15 +151,8 @@
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Default-568h@2x.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Default-Portrait.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Default-Portrait@2x.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-60@2x.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-60@3x.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-76.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-76@2x.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small@2x.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small@3x.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small-40.png
-/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small-40@2x.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/Icon-Small-40@3x.png
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/InsideScoopMobile.iOS.csprojAssemblyReference.cache
@@ -396,3 +389,6 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/MainScreenGTG.png
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/purptruck.png
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/HungryGuy.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/MClogo.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/MenuLogo.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/truck.png
