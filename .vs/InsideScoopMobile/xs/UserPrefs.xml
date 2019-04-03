@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsideScoopMobile/EditTruckProfile.xaml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="InsideScoopMobile/UserProfile.xaml" />
       <File FileName="InsideScoopMobile/PasswordChange.xaml" />
@@ -14,15 +14,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsideScoopMobile" expanded="True">
-            <Node name="InsideScoopMobile" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="EditTruckProfile.xaml" selected="True" />
-            </Node>
-            <Node name="InsideScoopMobile.Droid" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
             <Node name="InsideScoopMobile.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="Assets.xcassets" selected="True" />
             </Node>
           </Node>
         </State>
