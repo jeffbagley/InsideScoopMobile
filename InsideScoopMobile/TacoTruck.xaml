@@ -14,8 +14,8 @@
                    FontAttributes="Bold"
                    AbsoluteLayout.LayoutBounds=".5, .08" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 
-            <Image Source="MClogo.png"
-                   AbsoluteLayout.LayoutBounds=".5, .2, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Image Source="taco.png"
+                   AbsoluteLayout.LayoutBounds=".5, .2, 200, 200" AbsoluteLayout.LayoutFlags="PositionProportional"/>
                 
             <Label Text="Food Type:"
                    TextColor="White"
@@ -27,6 +27,9 @@
             <Label Text="Rating:"
                    TextColor="White"
                    AbsoluteLayout.LayoutBounds="20, 350, 100, 100"/>
+                
+            <Image Source="star.png"
+                   AbsoluteLayout.LayoutBounds="150, 320, 75, 75"/>
             
             <Label Text="Contact Info:"
                    TextColor="White"

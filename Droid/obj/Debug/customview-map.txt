@@ -1,0 +1,15 @@
+attr;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/attrs.xml
+declare-styleable;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/attrs.xml
+enum;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/attrs.xml
+resources;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/values/strings.xml
+resources;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/attrs.xml
+resources;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/strings.xml
+resources;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5/jl/res/values/strings.xml
+set;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/anim/slide_in_right.xml
+set;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/anim/slide_out_left.xml
+string;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/values/strings.xml
+string;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/21/jl/res/values/strings.xml
+string;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/5/jl/res/values/strings.xml
+translate;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/anim/slide_in_right.xml
+translate;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/anim/slide_out_left.xml
+WebView;/Users/Courtney/Documents/GitHub/InsideScoopMobile/Droid/obj/Debug/lp/2/jl/res/layout/activity_webview.xml

@@ -101,3 +101,5 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/InsideScoopMobile.csprojAssemblyReference.cache
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/FavoritesPage.xaml.g.cs
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TacoTruck.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/FavoritesPage.xaml.g.cs
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TacoTruck.xaml.g.cs

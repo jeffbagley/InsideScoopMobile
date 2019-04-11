@@ -6,18 +6,18 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon20x20@3x.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29@2x.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40@2x.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon60x60@2x.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29@2x~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40@2x~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon76x76~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon76x76@2x~ipad.png</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/Assets.car</string>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/partial-info.plist</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon20x20@3x.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29@2x.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40@2x.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon29x29@2x~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon40x40@2x~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon76x76~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/bundle/Assets.car</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/partial-info.plist</string>
 		</array>
 	</dict>
 	<key>com.apple.actool.document.notices</key>
@@ -28,7 +28,7 @@
 				<string>./AppIcon.appiconset/[][ipad][76x76][][][1x][][]</string>
 			</array>
 			<key>catalog</key>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>76x76@1x app icons only apply to iPad apps targeting releases of iOS prior to 10.0.</string>
 			<key>type</key>
@@ -43,7 +43,7 @@
 				<string>./AppIcon.appiconset</string>
 			</array>
 			<key>catalog</key>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>A 83.5x83.5@2x app icon is required for iPad apps targeting iOS 9.0 and later</string>
 			<key>type</key>
@@ -55,7 +55,7 @@
 				<string>./AppIcon.appiconset</string>
 			</array>
 			<key>catalog</key>
-			<string>/Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
+			<string>/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>A 1024x1024 app store icon is required for iOS apps</string>
 			<key>type</key>

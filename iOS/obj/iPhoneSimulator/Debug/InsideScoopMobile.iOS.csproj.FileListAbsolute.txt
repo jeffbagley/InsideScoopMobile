@@ -394,3 +394,12 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.XForms.dll
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.XForms.iOS.dll
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.iOS.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.XForms.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.XForms.iOS.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfRating.iOS.dll
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/taco.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/star.png
+/Users/Courtney/Documents/GitHub/InsideScoopMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/reflect.png
