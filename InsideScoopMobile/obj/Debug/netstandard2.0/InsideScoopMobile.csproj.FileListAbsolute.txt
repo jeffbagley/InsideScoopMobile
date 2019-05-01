@@ -103,3 +103,5 @@
 /Users/Cordell/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TacoTruck.xaml.g.cs
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/FavoritesPage.xaml.g.cs
 /Users/Courtney/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TacoTruck.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/FavoritesPage.xaml.g.cs
+/Users/JBagley/Documents/GitHub/InsideScoopMobile/InsideScoopMobile/obj/Debug/netstandard2.0/TacoTruck.xaml.g.cs
