@@ -16,4 +16,9 @@ Notes:
 -The purpose of Xamarin is to create applications that are cross-platform with a single shared code base. While this would be great, it may be better in practice to create separate applications in different environments such as Java/Swift. Currently, the iOS version is the most polished, but the Android version has functionality as well. 
 -Currently, many items that should be pulled from a database are hard-coded such as pin locations and the list view as well. These can easily be replaced by information pulled from the database once it is functioning properly.
 -The images used should be uploaded both as .png/.jpg files as well as adobe illustrator base files for the sake of convenience in editing/making changes to the files.
+-To run, run the insidescoopmobile.sln file in Visual Studio.
+
+Contact:
+jefferson.bagley@umontana.edu
+courtneyappel@gmail.com
 
